@@ -27,4 +27,4 @@ DW Loss
 - High loss regions (≥8%) were also observed in the South East between London and Chichester, and in South Wales. In the South East, a reduction of DW was evident around smaller towns and villages, coinciding with an increase in urban developments (see figure x). 
 - While regions of ‘no change’ were prominent in the Fens, the North Pennines and Yorkshire Dales, the dominant land class in these regions has historically been arable or grassland (see figure x). For this reason, lower proportional gross losses would be expected.
 - High loss areas (≥8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss (see figure x). 
-
+<p align='left'><image src='images/heatmap/loss_heatmap.png' width=900></p>

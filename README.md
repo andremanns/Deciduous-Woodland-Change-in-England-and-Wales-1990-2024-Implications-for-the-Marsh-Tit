@@ -47,7 +47,8 @@ Figures 5a to 5c illustrate the percentage change in DW area across ITL1 (Intern
 The distribution of regional gross losses could be categorised into 3 groups:
 - The largest declines were observed in Wales and Northern regions of England (19.4-23.3%, mean=21.8%), with Yorkshire showing the greatest decrease (23.3%). This corresponds with clusters of high DW loss around Manchester, Sheffield, Leeds and South Wales (see figure x).
 - The magnitude of decline was lowest in southeastern parts of England - specifically London, the South East and the East (13.5-14.1%, mean=13.8%). While the South East coincides with an area of large absolute loss (see figure x), in 1990 it was recorded as having the largest expanse of DW area in England and Wales (2411km²). This could explain why relative decline in the region was low. 
-- The East Midlands, West Midlands and South West experienced moderate losses (15.1-17.6%, mean=16.4%), forming a transition zone from higher loss regions in Northern-England and Wales, to lower loss regions in the Southeast. 
+- The East Midlands, West Midlands and South West experienced moderate losses (15.1-17.6%, mean=16.4%), forming a transition zone from higher loss regions in Northern-England and Wales, to lower loss regions in the Southeast.
+<p align='left'><image src='images/regional/regional_loss.png' width=1100></p>
 
 ### Gain
 - Increases in DW exceeded losses on a regional level across all of England and Wales, with the largest gross gains evident in the North East (74.8%) and East Midlands (63.4%), supporting the cluster patterns observed in figure x. 

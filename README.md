@@ -59,3 +59,13 @@ The distribution of regional gross losses could be categorised into 3 groups:
 ### Net Change
 A net increase was recorded across all regions, with the rank of the top three regions (North East, East Midlands and the East) consistent with those observed in the gross gains analysis (see figure x). Yorkshire (+18.0%), the South East (+11.9%) and the South West (+23.9%) delivered the lowest net increases. As previously mentioned, a low ranking in the latter two can be explained by their large baseline DW areas; Yorkshire on the other hand ranked 7th in terms of its baseline DW extent (811 km²). Poor overall performance in this region is likely linked to it losing nearly a quarter (23.3%) of its DW from 1990 (see figure x). Across the remaining regions, low to moderate net increases (+20 ≥ x > +40%) were evident. 
 <p align='left'><image src='images/regional/regional_net_change.png' width=1100></p>
+
+## 6. Land Class Interactions and Net Change
+The interaction of DW with other land classes is shown in figure X. Figures Xa and Xb detail the relative transfer of DW with other land classes in England and Wales between 1990 and 2024, while absolute changes in area are outlined by figures Xc and Xd. 
+
+- Overall, DW increased by 2570.6 km² (24.8%) corresponding to an added area nearly equivalent to the size of Oxfordshire (2605 km²).
+- Grassland was the largest net contributor (1617km²) to new DW. This is despite more DW converting to grassland (6.7%) than any other class. The latter process could be the result of forest restructuring initiatives, such as the ‘10% open ground’ guidance introduced by the UK Forestry Standard (UKFS) in 1998 [9], [10]. In some areas tree felling was permitted to allow for an increase in the number of edge habitats [11].
+- Grassland, coniferous woodland and built-up areas were together responsible for the majority of DW loss (93.2%).
+- Built-up areas were the third biggest driver of DW loss (27.0%). Furthermore, only 5.6% of new DW, became established in previously built-up areas. As a result, this land class was responsible for the largest net loss in terms of absolute area (-244.3km²).
+- By contrast, arable land accounted for a relatively small share of gross DW loss (2.8%). A large proportion of arable farming is concentrated in the East and East Midlands [12], [13] - regions where DW cover has been historically low (see chapter x, figure x). This could explain why the transfer of DW to arable land was minimal.  
+

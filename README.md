@@ -9,4 +9,4 @@ An initial report is to be delivered to the Director of Environmental Analysis, 
 ## About the UKDWC
 The UKDWC is a non-profit environmental research organisation, that monitors biodiversity and ecosystems in the UK, reporting its findings to various charities and central government. Since its founding in 1963, the company has gained a reputation for its excellent ecological and environmental modelling capabilities.
 
-<p align='left'><image src='images/data_sourcing/data_sourcing.png' width=1000></p>
+<p align='left'><image src='images/data_sourcing/data_sourcing.png' width=900></p>

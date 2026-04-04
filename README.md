@@ -58,4 +58,4 @@ The distribution of regional gross losses could be categorised into 3 groups:
 
 ### Net Change
 A net increase was recorded across all regions, with the rank of the top three regions (North East, East Midlands and the East) consistent with those observed in the gross gains analysis (see figure x). Yorkshire (+18.0%), the South East (+11.9%) and the South West (+23.9%) delivered the lowest net increases. As previously mentioned, a low ranking in the latter two can be explained by their large baseline DW areas; Yorkshire on the other hand ranked 7th in terms of its baseline DW extent (811 km²). Poor overall performance in this region is likely linked to it losing nearly a quarter (23.3%) of its DW from 1990 (see figure x). Across the remaining regions, low to moderate net increases (+20 ≥ x > +40%) were evident. 
-
+<p align='left'><image src='images/regional/regional_net_change.png' width=1100></p>

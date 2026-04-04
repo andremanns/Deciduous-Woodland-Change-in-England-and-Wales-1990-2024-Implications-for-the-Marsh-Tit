@@ -20,8 +20,7 @@ The Marsh tit’s preference for ancient DW means the loss of established habita
 ## 4. National Trends 
 The heatmaps in figures 4a to 4c show the percentage loss, gain and net change of DW in England and Wales between 1990 and 2024. A 5.1x5.1km moving window was used to estimate proportional values, interspersed at 100m intervals. 
 
-### DW Loss
-
+### Loss
 - In most areas, the proportion of DW loss was less than 2%.
 - Areas declining by at least 8% were sparsely distributed through most of England and Wales, but clusters were present in the Northwest - particularly regions around the Peak District on the rural-urban fringes of Manchester, Sheffield and Leeds. The increase of urban land in these locations (see figure 4ai), suggests urban sprawl may have contributed to the decline. 
 - High loss regions (≥8%) were also observed in the South East between London and Chichester, and in South Wales. In the South East, a reduction of DW was evident around smaller towns and villages, coinciding with an increase in urban developments (see figure 4aii). 
@@ -29,7 +28,7 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 - High loss areas (≥8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
 <p align='left'><image src='images/heatmap/loss_heatmap.png' width=900></p>
 
-### DW Gain
+### Gain
 - Most of the landscape exhibited low-moderate levels of DW gain (0 ≤ x < 4%). Moderate-high gain areas (≥6%) were generally less abundant but common in most regions; the exception would be large parts of the Northwest and the East Midlands where these areas were absent.
 - High-gain clusters (≥8%) were evident in Western Leicestershire, South Wales and in the Northeast.
 - In Leicestershire, despite an increase in urban area, significant regions of grassland and arable land were converted into DW (see figure x). A large part of this could be attributed to the Wood Pasture and Parkland Habitat Action Plan (WPPHAP), part of a regional effort to improve biodiversity in line with the UK Biodiversity Action Plan (BAP) [4]. Between 1998 and 2016 the scheme was responsible for the planting of more than 2473 ha of woodland [5].
@@ -39,3 +38,21 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 ### Net Change
 Net change trends broadly reflected those observed in figures x and x, with the largest increases (>+10%) concentrating in the North East, South Wales and Western Leicestershire. Loss areas by comparison, were less abundant and lower in magnitude (-10% ≤ x < -2%) converging in parts of the North West and South East. Outside of these loss regions, DW cover predominantly remained constant or increased moderately (+2% ≤ x < +6%), indicating that afforestation processes were dominant overall.
 <p align='left'><image src='images/heatmap/net_change_heatmap.png' width=900></p>
+
+## 5. Regional Trends
+Figures 5a to 5c illustrate the percentage change in DW area across ITL1 (International Territorial Level 1) regions in England and Wales between 1990 and 2024. Values were calculated relative to baseline levels of DW recorded in 1990.
+
+### Loss
+The distribution of regional gross losses could be categorised into 3 groups:
+- The largest declines were observed in Wales and Northern regions of England (19.4-23.3%, mean=21.8%), with Yorkshire showing the greatest decrease (23.3%). This corresponds with clusters of high DW loss around Manchester, Sheffield, Leeds and South Wales (see figure x).
+- The magnitude of decline was lowest in southeastern parts of England - specifically London, the South East and the East (13.5-14.1%, mean=13.8%). While the South East coincides with an area of large absolute loss (see figure x), in 1990 it was recorded as having the largest expanse of DW area in England and Wales (2411km²). This could explain why relative decline in the region was low. 
+- The East Midlands, West Midlands and South West experienced moderate losses (15.1-17.6%, mean=16.4%), forming a transition zone from higher loss regions in Northern-England and Wales, to lower loss regions in the Southeast. 
+
+### Gain
+•	Increases in DW exceeded losses on a regional level across all of England and Wales, with the largest gross gains evident in the North East (74.8%) and East Midlands (63.4%), supporting the cluster patterns observed in figure x. 
+•	Trends broadly mirrored regional loss patterns, with the lowest relative changes seen across Southern England - in the South West (+25.7%) and the Southeast (+39.0%). Misleadingly, these zones experienced the 2nd and 3rd largest increases in terms of absolute area (South West=712km², South East=621km²), but considerable expanses of baseline DW meant relative increases ranked poorly. 
+•	Variability was also higher on a regional level for DW gain (SD=12.6pp, range=49.1pp) compared to DW loss (SD=3.6pp, range=9.8pp). This may reflect differing levels of support among regional policy makers for biodiversity initiatives. Additionally, an increase in the number of National Parks, such as the South Downs (inaugurated in 2010) may have restricted urban development [8].  
+
+### Net Change
+A net increase was recorded across all regions, with the rank of the top three regions (North East, East Midlands and the East) consistent with those observed in the gross gains analysis (see figure x). Yorkshire (+18.0%), the South East (+11.9%) and the South West (+23.9%) delivered the lowest net increases. As previously mentioned, a low ranking in the latter two can be explained by their large baseline DW areas; Yorkshire on the other hand ranked 7th in terms of its baseline DW extent (811 km²). Poor overall performance in this region is likely linked to it losing nearly a quarter (23.3%) of its DW from 1990 (see figure x). Across the remaining regions, low to moderate net increases (+20 ≥ x > +40%) were evident. 
+

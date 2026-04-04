@@ -20,7 +20,7 @@ The Marsh tit’s preference for ancient DW means the loss of established habita
 ## 4. National Trends 
 The heatmaps in figures 4a to 4c show the percentage loss, gain and net change of DW in England and Wales between 1990 and 2024. A 5.1x5.1km moving window was used to estimate proportional values, interspersed at 100m intervals. 
 
-DW Loss
+### DW Loss
 
 - In most areas, the proportion of DW loss was less than 2%.
 - Areas declining by at least 8% were sparsely distributed through most of England and Wales, but clusters were present in the Northwest - particularly regions around the Peak District on the rural-urban fringes of Manchester, Sheffield and Leeds. The increase of urban land in these locations (see figure 4ai), suggests urban sprawl may have contributed to the decline. 
@@ -29,10 +29,9 @@ DW Loss
 - High loss areas (≥8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
 <p align='left'><image src='images/heatmap/loss_heatmap.png' width=900></p>
 
-DW Gain
+### DW Gain
 - Most of the landscape exhibited low-moderate levels of DW gain (0 ≤ x < 4%). Moderate-high gain areas (≥6%) were generally less abundant but common in most regions; the exception would be large parts of the Northwest and the East Midlands where these areas were absent.
 - High-gain clusters (≥8%) were evident in Western Leicestershire, South Wales and in the Northeast.
 - In Leicestershire, despite an increase in urban area, significant regions of grassland and arable land were converted into DW (see figure x). A large part of this could be attributed to the Wood Pasture and Parkland Habitat Action Plan (WPPHAP), part of a regional effort to improve biodiversity in line with the UK Biodiversity Action Plan (BAP) [4]. Between 1998 and 2016 the scheme was responsible for the planting of more than 2473 ha of woodland [5].
 - In South Wales, a large proportion of deciduous woodland was inherited from coniferous or arable land types (see figure x) – the result of multiple forest restoration schemes, such as the AFRP (Afan Forest Resource Plan) run by Natural Resources Wales (NRC), which aims to restore deciduous habitat on Planted Ancient Woodland Sites (PAWS) [6]. Additionally, disease-induced Larch felling, encouraged the restructuring of previously coniferous-dominant woodland [7].
-
 <p align='left'><image src='images/heatmap/gain_heatmap.png' width=900></p>

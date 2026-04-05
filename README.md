@@ -63,7 +63,7 @@ A net increase was recorded across all regions, with the rank of the top three r
 ## 6. Land Class Interactions and Net Change
 The interaction of DW with other land classes is shown in figures 6a to 6c. Figures 6a and 6b detail the relative transfer of DW with other land classes in England and Wales between 1990 and 2024, while absolute changes in area are outlined by figures 6c.
 
-<p align='left'><image src='images/sankey/sankey_gain.png' width=600></p>
+<p align='left'><image src='images/sankey/sankey_loss.png' width=600></p>
 
 <p align='left'><image src='images/sankey/sankey_gain.png' width=600></p>
 

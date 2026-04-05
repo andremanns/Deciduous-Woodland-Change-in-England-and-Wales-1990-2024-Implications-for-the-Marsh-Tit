@@ -67,7 +67,7 @@ The interaction of DW with other land classes is shown in figure X. Figures Xa a
 
 <p align='left'><image src='images/sankey/sankey_gain.png' width=600></p>
 
-<p align='left'><image src='images/sankey/land_change_class_bar.png' width=500></p>
+<p align='left'><image src='images/sankey/land_change_class_bar.png' width=600></p>
 
 - Overall, DW increased by 2570.6 km² (24.8%) corresponding to an added area nearly equivalent to the size of Oxfordshire (2605 km²).
 - Grassland was the largest net contributor (1617km²) to new DW. This is despite more DW converting to grassland (6.7%) than any other class. The latter process could be the result of forest restructuring initiatives, such as the ‘10% open ground’ guidance introduced by the UK Forestry Standard (UKFS) in 1998 [9], [10]. In some areas tree felling was permitted to allow for an increase in the number of edge habitats [11].

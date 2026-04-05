@@ -75,7 +75,7 @@ The interaction of DW with other land classes is shown in figures 6a to 6c. Figu
 - Built-up areas were the third biggest driver of DW loss (27.0%). Furthermore, only 5.6% of new DW, became established in previously built-up areas. As a result, this land class was responsible for the largest net loss in terms of absolute area (-244.3km²).
 - By contrast, arable land accounted for a relatively small share of gross DW loss (2.8%). A large proportion of arable farming is concentrated in the East and East Midlands [12], [13] - regions where DW cover has been historically low (see chapter x, figure x). This could explain why the transfer of DW to arable land was minimal.  
 
-## 7. Understanding the Results
+## 7. Implications for the Marsh Tit
 While an increase in DW habitat may be of benefit to the Marsh tit, rich biodiversity in these regions can take decades to develop [14]. Furthermore, if regions of habitat gain are small and disconnected, it can leave inhabiting populations vulnerable to climatic events or food shortages [15]. Therefore, extensive net gains across England and Wales may not yield immediate benefits and could be misleading if ancient woodland has been lost. 
 
 ### Quantifying the Impact

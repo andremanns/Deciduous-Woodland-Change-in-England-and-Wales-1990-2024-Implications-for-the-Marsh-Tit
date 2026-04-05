@@ -15,6 +15,8 @@ UKCEH (UK Centre for Ecology and Hydrology) 25m raster maps from 1990 and 2024 [
 <h3 align='left'>Figure 2a: Extracting Land Cover Classification Data  </h3>
 <p align='left'><image src='images/data_sourcing/data_sourcing.png' width=900></p>
 
+###### *Figure 2a: Shows how the 21 UKCEH land classes were grouped into 7 broader categories. Following categorisation and clipping, a land cover change analysis was performed 
+
 ## 3. Executive Summary 
 Despite net increases in Deciduous Woodland (DW) across England and Wales (+24.8%), significant gross losses were observed across all International Territorial Level 1 (ITL1) regions (13.5% to 23.3%). Yorkshire and the North West ranked highest for gross DW loss, with urban expansion highly prevalent in these regions. On a national scale, built-up areas were the largest contributor to net DW loss (-244.3 km²), accounting for 27.2% of all gross losses.
 

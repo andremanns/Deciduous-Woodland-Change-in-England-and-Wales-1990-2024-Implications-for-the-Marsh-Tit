@@ -61,7 +61,7 @@ A net increase was recorded across all regions, with the rank of the top three r
 <p align='left'><image src='images/regional/regional_net_change.png' width=1100></p>
 
 ## 6. Land Class Interactions and Net Change
-The interaction of DW with other land classes is shown in figure X. Figures Xa and Xb detail the relative transfer of DW with other land classes in England and Wales between 1990 and 2024, while absolute changes in area are outlined by figures Xc and Xd. 
+The interaction of DW with other land classes is shown in figures 6a to 6c. Figures 6a and 6b detail the relative transfer of DW with other land classes in England and Wales between 1990 and 2024, while absolute changes in area are outlined by figures 6c.
 
 <p align='left'><image src='images/sankey/sankey_gain.png' width=600></p>
 
@@ -75,3 +75,30 @@ The interaction of DW with other land classes is shown in figure X. Figures Xa a
 - Built-up areas were the third biggest driver of DW loss (27.0%). Furthermore, only 5.6% of new DW, became established in previously built-up areas. As a result, this land class was responsible for the largest net loss in terms of absolute area (-244.3km²).
 - By contrast, arable land accounted for a relatively small share of gross DW loss (2.8%). A large proportion of arable farming is concentrated in the East and East Midlands [12], [13] - regions where DW cover has been historically low (see chapter x, figure x). This could explain why the transfer of DW to arable land was minimal.  
 
+## 7. Understanding the Results
+While an increase in DW habitat may be of benefit to the Marsh tit, rich biodiversity in these regions can take decades to develop [14]. Furthermore, if regions of habitat gain are small and disconnected, it can leave inhabiting populations vulnerable to climatic events or food shortages [15]. Therefore, extensive net gains across England and Wales may not yield immediate benefits and could be misleading if ancient woodland has been lost. 
+
+### Quantifying the Impact
+The current dataset is not able to distinguish between ancient DW and newly formed DW (although this could form the basis of future investigations). As a result, this report will place greater emphasis on areas of existing woodland that have been lost since these are more likely to be of greater ecological value to the Marsh tit. 
+
+Based on the results, areas in England and Wales have been grouped into three categories: 
+
+1.	Low threat: High DW gain, low DW loss
+
+Such regions include the East Midlands and the North East. In the East Midlands, particularly around Western Leicestershire, the planting of 2473 ha of DW between 1998 and 2016, part of the UKBAP initiative, was key to high gross gains (63.4%). Despite an increase in built-up areas, regional gross losses remained low (16.45%) – a reduction in arable land and grassland in the region may have accommodated urban development (see figure X).
+
+2.	Moderate threat: Mix of DW gain and loss
+
+High loss clusters (≥8%) were observed in the South East between London and Chichester (see figure X). Despite this, an extensive baseline area (2411 km²) meant relative DW losses remained low (13.8%) compared to other regions. Additionally, the inauguration of the South Downs as a National Park may have helped to stabilise habitat loss (see figure X). 
+Moderate gross gains were seen in Wales (46.8%). Key contributors include forest restoration schemes like the AFRP in South Wales (see figure X), responsible for converting previous coniferous plantations into DW. This was hindered by large relative gross losses across the country (22.0%). 
+
+3.	Critical: High DW loss, low DW gain
+
+Urban expansion around Manchester, Sheffield and Leeds (see figure X) resulted in high DW loss clusters (≥8%). On a regional level, this resulted in Yorkshire (-23.3%) and the North West (-22.5%) ranking 1st and 2nd in terms of gross relative DW loss respectively. Furthermore, Yorkshire ranked 2nd lowest for net relative DW gain (18.0%) in England and Wales. 
+
+## 8. Key Findings
+1.	DW increased by nearly a quarter (24.8%) in England and Wales between 1990 and 2024.
+2.	All ITL1 regions experienced a net increase in DW, although significant gross losses were observed (13.5% to 23.3%).
+3.	Yorkshire and the North West have been identified as ‘critical’ regions due to their high gross rates of DW loss (23.3% and 22.5% respectively). 
+4.	Urban expansion appears to be a key driver of DW loss in these critical regions, with ‘built-up areas’ clustering on the fringes of Manchester, Sheffield and Leeds. 
+5.	On a national scale, built-up areas were the third largest contributor to gross DW decline (27.0%) and responsible for the largest net loss of DW (244.3 km²).

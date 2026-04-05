@@ -25,13 +25,15 @@ The Marsh tit’s preference for ancient DW means the loss of established habita
 ## 4. National Trends 
 The heatmaps in figures 4a to 4c show the percentage loss, gain and net change of DW in England and Wales between 1990 and 2024. A 5.1x5.1km moving window was used to estimate proportional values, interspersed at 100m intervals. 
 
-### Loss
+<h3 align='left'>Figure 4a: DW Loss  </h3>
 - In most areas, the proportion of DW loss was less than 2%.
 - Areas declining by at least 8% were sparsely distributed through most of England and Wales, but clusters were present in the Northwest - particularly regions around the Peak District on the rural-urban fringes of Manchester, Sheffield and Leeds. The increase of urban land in these locations (see figure 4ai), suggests urban sprawl may have contributed to the decline. 
 - High loss regions (≥8%) were also observed in the South East between London and Chichester, and in South Wales. In the South East, a reduction of DW was evident around smaller towns and villages, coinciding with an increase in urban developments (see figure 4aii). 
 - While regions of ‘no change’ were prominent in the Fens, the North Pennines and Yorkshire Dales, the dominant land class in these regions has historically been arable or grassland (see figure 4aiii). For this reason, lower proportional gross losses would be expected.
 - High loss areas (≥8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
 <p align='left'><image src='images/heatmap/loss_heatmap.png' width=900></p>
+
+###### *Figure 4a: Processing time was reduced by aggregating 25m raster cells into 100m raster cells. The resulting 5.1x5.1km moving window was produced by setting the neighbourhood size to 51. To minimise edge boundary effects caused by null data in coastal regions, the 'r.neighbours' analysis operation was set to 'average'.* 
 
 ### Gain
 - Most of the landscape exhibited low-moderate levels of DW gain (0 ≤ x < 4%). Moderate-high gain areas (≥6%) were generally less abundant but common in most regions; the exception would be large parts of the Northwest and the East Midlands where these areas were absent.

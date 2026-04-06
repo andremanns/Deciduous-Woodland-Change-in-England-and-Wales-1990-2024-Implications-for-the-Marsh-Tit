@@ -33,7 +33,7 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 - High loss areas (≥8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
 <p align='left'><image src='images/heatmap/loss_heatmap.png' width=900></p>
 
-###### *Figure 4a: To reduce processing times, 25m raster cells were aggregated into 100m raster cells prior to running an 'r.neighbours' analysis in QGIS. Edge boundary effects, caused by null data in coastal regions, were minimised by setting the 'r.neighbours' analysis operation to 'average'. Additionally, the neighbourhood size was set to 51 to produce the resulting 5.1x5.1km window size for enhanced smoothing potential.*
+###### *Figure 4a: Shows the DW loss density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional loss of area within a 5.1x5.1km area centred around a focal cell. For example, a 10% loss indicates a reduction in DW of 2.6 km².*
 
 ### Gain
 - Most of the landscape exhibited low-moderate levels of DW gain (0 ≤ x < 4%). Moderate-high gain areas (≥6%) were generally less abundant but common in most regions; the exception would be large parts of the Northwest and the East Midlands where these areas were absent.

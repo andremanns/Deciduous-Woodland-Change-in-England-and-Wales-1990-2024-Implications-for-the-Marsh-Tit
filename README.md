@@ -50,10 +50,10 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 
 ### Net Change
 
-<h3 align='left'>Figure 4b: DW Net Change  </h3>
+<h3 align='left'>Figure 4c: DW Net Change  </h3>
 <p align='left'><image src='images/heatmap/net_change_heatmap.png' width=900></p>
 
-###### *Figure 4b: Shows the DW net change density (-10% to +10%) in England and Wales between 1990 and 2024. Ternary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional net change in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
+###### *Figure 4c: Shows the DW net change density (-10% to +10%) in England and Wales between 1990 and 2024. Ternary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional net change in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
 
 Net change trends broadly reflected those observed in figures x and x, with the largest increases (>+10%) concentrating in the North East, South Wales and Western Leicestershire. Loss areas by comparison, were less abundant and lower in magnitude (-10% ≤ x < -2%) converging in parts of the North West and South East. Outside of these loss regions, DW cover predominantly remained constant or increased moderately (+2% ≤ x < +6%), indicating that afforestation processes were dominant overall.
 

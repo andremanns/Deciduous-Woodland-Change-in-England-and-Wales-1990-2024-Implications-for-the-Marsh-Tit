@@ -14,7 +14,7 @@ The UKDWC is a non-profit environmental research organisation, that monitors bio
 UKCEH (UK Centre for Ecology and Hydrology) 25m raster maps from 1990 and 2024 [3] were cleaned and analysed in QGIS to determine land classification changes relevant to Marsh tit habitat. Before the analysis, both datasets were clipped to England and Wales, and land classes were grouped for simplicity. Figure 2a illustrates how the data was prepared. 
 <h3 align='left'>Figure 2a: Extracting Land Cover Classification Data  </h3>
 <p align='left'><image src='images/data_sourcing/data_sourcing.png' width=900></p>
-
+  
 ###### *Figure 2a: Shows how the 21 UKCEH land classes (A) were grouped into 7 broader categories (B) in QGIS. Following categorisation and clipping, a land cover change analysis was performed (using maps B) to determine classification gains and losses between 1990 and 2024. To generate heatmaps highlighting the distribution of DW changes, the classes were grouped again (C) into loss, gain and no change.*
 
 ## 3. Executive Summary 
@@ -37,11 +37,16 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 - High loss areas (≥8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
 
 ### Gain
+
+<h3 align='left'>Figure 4b: DW Gain  </h3>
+<p align='left'><image src='images/heatmap/gain_heatmap.png' width=900></p>
+
+###### *Figure 4b: Shows the DW gain density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional gain in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
+
 - Most of the landscape exhibited low-moderate levels of DW gain (0 ≤ x < 4%). Moderate-high gain areas (≥6%) were generally less abundant but common in most regions; the exception would be large parts of the Northwest and the East Midlands where these areas were absent.
 - High-gain clusters (≥8%) were evident in Western Leicestershire, South Wales and in the Northeast.
 - In Leicestershire, despite an increase in urban area, significant regions of grassland and arable land were converted into DW (see figure x). A large part of this could be attributed to the Wood Pasture and Parkland Habitat Action Plan (WPPHAP), part of a regional effort to improve biodiversity in line with the UK Biodiversity Action Plan (BAP) [4]. Between 1998 and 2016 the scheme was responsible for the planting of more than 2473 ha of woodland [5].
 - In South Wales, a large proportion of deciduous woodland was inherited from coniferous or arable land types (see figure x) – the result of multiple forest restoration schemes, such as the AFRP (Afan Forest Resource Plan) run by Natural Resources Wales (NRC), which aims to restore deciduous habitat on Planted Ancient Woodland Sites (PAWS) [6]. Additionally, disease-induced Larch felling, encouraged the restructuring of previously coniferous-dominant woodland [7].
-<p align='left'><image src='images/heatmap/gain_heatmap.png' width=900></p>
 
 ### Net Change
 Net change trends broadly reflected those observed in figures x and x, with the largest increases (>+10%) concentrating in the North East, South Wales and Western Leicestershire. Loss areas by comparison, were less abundant and lower in magnitude (-10% ≤ x < -2%) converging in parts of the North West and South East. Outside of these loss regions, DW cover predominantly remained constant or increased moderately (+2% ≤ x < +6%), indicating that afforestation processes were dominant overall.

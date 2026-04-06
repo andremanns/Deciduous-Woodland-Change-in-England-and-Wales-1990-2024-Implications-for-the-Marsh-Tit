@@ -36,8 +36,6 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 - While regions of ‘no change’ were prominent in the Fens, the North Pennines and Yorkshire Dales, the dominant land class in these regions has historically been arable or grassland (see figure 4aiii). For this reason, lower proportional gross losses would be expected.
 - High loss areas (≥8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
 
-### Gain
-
 <h3 align='left'>Figure 4b: DW Gain  </h3>
 <p align='left'><image src='images/heatmap/gain_heatmap.png' width=900></p>
 
@@ -47,8 +45,6 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 - High-gain clusters (≥8%) were evident in Western Leicestershire, South Wales and in the Northeast.
 - In Leicestershire, despite an increase in urban area, significant regions of grassland and arable land were converted into DW (see figure x). A large part of this could be attributed to the Wood Pasture and Parkland Habitat Action Plan (WPPHAP), part of a regional effort to improve biodiversity in line with the UK Biodiversity Action Plan (BAP) [4]. Between 1998 and 2016 the scheme was responsible for the planting of more than 2473 ha of woodland [5].
 - In South Wales, a large proportion of deciduous woodland was inherited from coniferous or arable land types (see figure x) – the result of multiple forest restoration schemes, such as the AFRP (Afan Forest Resource Plan) run by Natural Resources Wales (NRC), which aims to restore deciduous habitat on Planted Ancient Woodland Sites (PAWS) [6]. Additionally, disease-induced Larch felling, encouraged the restructuring of previously coniferous-dominant woodland [7].
-
-### Net Change
 
 <h3 align='left'>Figure 4c: DW Net Change  </h3>
 <p align='left'><image src='images/heatmap/net_change_heatmap.png' width=900></p>

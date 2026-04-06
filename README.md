@@ -28,7 +28,7 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 <h3 align='left'>Figure 4a: DW Loss  </h3>
 <p align='left'><image src='images/heatmap/loss_heatmap.png' width=900></p>
 
-###### *Figure 4a: Shows the DW loss density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional loss of area within a 5.1x5.1km area centred around a focal cell. For example, a 10% loss indicates a reduction in DW of 2.6 km².*
+###### *Figure 4a: Shows the DW gross loss density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional loss of area within a 5.1x5.1km area centred around a focal cell. For example, a 10% loss indicates a reduction in DW of 2.6 km².*
 
 - In most areas, the proportion of DW loss was less than 2%.
 - Areas declining by at least 8% were sparsely distributed through most of England and Wales, but clusters were present in the Northwest - particularly regions around the Peak District on the rural-urban fringes of Manchester, Sheffield and Leeds. The increase of urban land in these locations (see figure 4ai), suggests urban sprawl may have contributed to the decline. 
@@ -41,7 +41,7 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 <h3 align='left'>Figure 4b: DW Gain  </h3>
 <p align='left'><image src='images/heatmap/gain_heatmap.png' width=900></p>
 
-###### *Figure 4b: Shows the DW gain density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional gain in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
+###### *Figure 4b: Shows the DW gross gain density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional gain in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
 
 - Most of the landscape exhibited low-moderate levels of DW gain (0 ≤ x < 4%). Moderate-high gain areas (≥6%) were generally less abundant but common in most regions; the exception would be large parts of the Northwest and the East Midlands where these areas were absent.
 - High-gain clusters (≥8%) were evident in Western Leicestershire, South Wales and in the Northeast.
@@ -60,12 +60,16 @@ Net change trends broadly reflected those observed in figures x and x, with the 
 ## 5. Regional Trends
 Figures 5a to 5c illustrate the percentage change in DW area across ITL1 (International Territorial Level 1) regions in England and Wales between 1990 and 2024. Values were calculated relative to baseline levels of DW recorded in 1990.
 
-### Loss
+<h3 align='left'>Figure 5a: DW Loss  </h3>
+<p align='left'><image src='images/regional/regional_loss.png' width=1100></p>
+
+###### *Figure 5a: The relative gross decrease (%) in area across ITL1 regions in England and Wales between 1990 and 2024. As an example, the North West had a baseline extent of 850.0 km² and gross losses of 191.4 km², resulting in a relative gross decrease of 22.5%.* 
+  
 The distribution of regional gross losses could be categorised into 3 groups:
 - The largest declines were observed in Wales and Northern regions of England (19.4-23.3%, mean=21.8%), with Yorkshire showing the greatest decrease (23.3%). This corresponds with clusters of high DW loss around Manchester, Sheffield, Leeds and South Wales (see figure x).
 - The magnitude of decline was lowest in southeastern parts of England - specifically London, the South East and the East (13.5-14.1%, mean=13.8%). While the South East coincides with an area of large absolute loss (see figure x), in 1990 it was recorded as having the largest expanse of DW area in England and Wales (2411km²). This could explain why relative decline in the region was low. 
 - The East Midlands, West Midlands and South West experienced moderate losses (15.1-17.6%, mean=16.4%), forming a transition zone from higher loss regions in Northern-England and Wales, to lower loss regions in the Southeast.
-<p align='left'><image src='images/regional/regional_loss.png' width=1100></p>
+
 
 ### Gain
 - Increases in DW exceeded losses on a regional level across all of England and Wales, with the largest gross gains evident in the North East (74.8%) and East Midlands (63.4%), supporting the cluster patterns observed in figure x. 

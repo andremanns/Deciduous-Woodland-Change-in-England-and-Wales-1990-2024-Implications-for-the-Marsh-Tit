@@ -56,7 +56,7 @@ Net change trends broadly reflected those observed in figures x and x, with the 
 ## 5. Regional Trends
 Figures 5a to 5c illustrate the percentage change in DW area across ITL1 (International Territorial Level 1) regions in England and Wales between 1990 and 2024. Values were calculated relative to baseline levels of DW recorded in 1990.
 
-<h3 align='left'>Figure 5a: DW Loss  </h3>
+<h3 align='left'>Figure 5a: DW Regional Loss  </h3>
 <p align='left'><image src='images/regional/regional_loss.png' width=1100></p>
 
 ###### *Figure 5a: The relative gross decrease (%) in area across ITL1 regions in England and Wales between 1990 and 2024. As an example, the North West had a baseline extent of 850.0 km² and gross losses of 191.4 km², resulting in a relative gross decrease of 22.5%.* 
@@ -66,7 +66,7 @@ The distribution of regional gross losses could be categorised into 3 groups:
 - The magnitude of decline was lowest in southeastern parts of England - specifically London, the South East and the East (13.5-14.1%, mean=13.8%). While the South East coincides with an area of large absolute loss (see figure x), in 1990 it was recorded as having the largest expanse of DW area in England and Wales (2411km²). This could explain why relative decline in the region was low. 
 - The East Midlands, West Midlands and South West experienced moderate losses (15.1-17.6%, mean=16.4%), forming a transition zone from higher loss regions in Northern-England and Wales, to lower loss regions in the Southeast.
 
-<h3 align='left'>Figure 5b: DW Gain  </h3>
+<h3 align='left'>Figure 5b: DW Regional Gain  </h3>
 <p align='left'><image src='images/regional/regional_gain.png' width=1100></p>
 
 ###### *Figure 5b: The relative gross gain (%) in area across ITL1 regions in England and Wales between 1990 and 2024. As an example, the North West had a baseline extent of 850.0 km² and gross gains of 407.1 km², resulting in a relative gross increase of 47.9%.* 
@@ -75,9 +75,12 @@ The distribution of regional gross losses could be categorised into 3 groups:
 - Trends broadly mirrored regional loss patterns, with the lowest relative changes seen across Southern England - in the South West (+25.7%) and the Southeast (+39.0%). Misleadingly, these zones experienced the 2nd and 3rd largest increases in terms of absolute area (South West=712km², South East=621km²), but considerable expanses of baseline DW meant relative increases ranked poorly. 
 - Variability was also higher on a regional level for DW gain (SD=12.6pp, range=49.1pp) compared to DW loss (SD=3.6pp, range=9.8pp). This may reflect differing levels of support among regional policy makers for biodiversity initiatives. Additionally, an increase in the number of National Parks, such as the South Downs (inaugurated in 2010) may have restricted urban development [8].
 
-### Net Change
-A net increase was recorded across all regions, with the rank of the top three regions (North East, East Midlands and the East) consistent with those observed in the gross gains analysis (see figure x). Yorkshire (+18.0%), the South East (+11.9%) and the South West (+23.9%) delivered the lowest net increases. As previously mentioned, a low ranking in the latter two can be explained by their large baseline DW areas; Yorkshire on the other hand ranked 7th in terms of its baseline DW extent (811 km²). Poor overall performance in this region is likely linked to it losing nearly a quarter (23.3%) of its DW from 1990 (see figure x). Across the remaining regions, low to moderate net increases (+20 ≥ x > +40%) were evident. 
+<h3 align='left'>Figure 5c: DW Regional Net Change  </h3>
 <p align='left'><image src='images/regional/regional_net_change.png' width=1100></p>
+
+A net increase was recorded across all regions, with the rank of the top three regions (North East, East Midlands and the East) consistent with those observed in the gross gains analysis (see figure x). Yorkshire (+18.0%), the South East (+11.9%) and the South West (+23.9%) delivered the lowest net increases. As previously mentioned, a low ranking in the latter two can be explained by their large baseline DW areas; Yorkshire on the other hand ranked 7th in terms of its baseline DW extent (811 km²). Poor overall performance in this region is likely linked to it losing nearly a quarter (23.3%) of its DW from 1990 (see figure x). Across the remaining regions, low to moderate net increases (+20 ≥ x > +40%) were evident. 
+
+###### *Figure 5c: The relative net change (%) in area across ITL1 regions in England and Wales between 1990 and 2024. As an example, the North West had a baseline extent of 850.0 km² and a net change of +215.7 km², resulting in a relative net change of +25.4%.* 
 
 ## 6. Land Class Interactions and Net Change
 The interaction of DW with other land classes is shown in figures 6a to 6c. Figures 6a and 6b detail the relative transfer of DW with other land classes in England and Wales between 1990 and 2024, while absolute changes in area are outlined by figures 6c.

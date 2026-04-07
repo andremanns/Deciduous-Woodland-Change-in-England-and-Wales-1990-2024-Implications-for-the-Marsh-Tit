@@ -82,10 +82,13 @@ The distribution of regional gross losses could be categorised into 3 groups:
 
 A net increase was recorded across all regions, with the rank of the top three regions (North East, East Midlands and the East) consistent with those observed in the gross gains analysis (see figure x). Yorkshire (+18.0%), the South East (+11.9%) and the South West (+23.9%) delivered the lowest net increases. As previously mentioned, a low ranking in the latter two can be explained by their large baseline DW areas; Yorkshire on the other hand ranked 7th in terms of its baseline DW extent (811 km²). Poor overall performance in this region is likely linked to it losing nearly a quarter (23.3%) of its DW from 1990 (see figure x). Across the remaining regions, low to moderate net increases (+20 ≥ x > +40%) were evident. 
 
-## 6. Land Class Interactions and Net Change
+## 6. Land Class Interactions
 The interaction of DW with other land classes is shown in figures 6a to 6c. Figures 6a and 6b detail the relative transfer of DW with other land classes in England and Wales between 1990 and 2024, while absolute changes in area are outlined by figures 6c.
 
+<h3 align='left'>Figure 6a: Land class contributions to gross DW loss (%)  </h3>
 <p align='left'><image src='images/sankey/sankey_loss.png' width=600></p>
+
+###### *Figure 6a: Shows the percentage retention, and transfer of DW to other land classes from 1990 (left) to 2024 (right), where all percentages are relative to 1990 levels. A link to DW indicates retention, a link to another class represents a transfer. Note that the thickness of the link is proportional to the magnitude of the transfer.*
 
 <p align='left'><image src='images/sankey/sankey_gain.png' width=600></p>
 

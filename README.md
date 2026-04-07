@@ -97,8 +97,10 @@ The interaction of DW with other land classes is shown in figures 6a to 6c. Figu
 ###### *Figure 6b: Shows the percentage contributed by land classes from 1990 (left) to DW area in 2024 (right), where all percentages are relative to the extent of DW in 2024. Links from other land classes indicate area contributed to new DW, while a link from DW represents area that has been retained. Note that the thickness of the link is proportional to the magnitude of the transfer.*
 
 
-<h3 align='left'>Figure 6c: Net Change in DW area resulting from land class contributions  </h3>
+<h3 align='left'>Figure 6c: Net change in DW area by land class  </h3>
 <p align='left'><image src='images/sankey/land_change_class_bar.png' width=600></p>
+
+###### *Figure 6c: Net change in absolute DW area resulting from land class transfers between 1990 and 2024. A net positive change, indicates that the extent of new DW created, exceeded the total area of DW lost to that land class.*
 
 - Overall, DW increased by 2570.6 km² (24.8%) corresponding to an added area nearly equivalent to the size of Oxfordshire (2605 km²).
 - Grassland was the largest net contributor (1617km²) to new DW. This is despite more DW converting to grassland (6.7%) than any other class. The latter process could be the result of forest restructuring initiatives, such as the ‘10% open ground’ guidance introduced by the UK Forestry Standard (UKFS) in 1998 [9], [10]. In some areas tree felling was permitted to allow for an increase in the number of edge habitats [11].

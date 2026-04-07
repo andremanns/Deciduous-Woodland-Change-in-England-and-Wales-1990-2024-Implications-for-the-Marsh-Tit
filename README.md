@@ -88,12 +88,12 @@ The interaction of DW with other land classes is shown in figures 6a to 6c. Figu
 <h3 align='left'>Figure 6a: Land class contributions to gross DW loss (%)  </h3>
 <p align='left'><image src='images/sankey/sankey_loss.png' width=600></p>
 
-###### *Figure 6a: Shows the percentage retention, and transfer of DW to other land classes from 1990 (left) to 2024 (right), where all percentages are relative to 1990 levels. A link to DW indicates retention, a link to another class represents a transfer. Note that the thickness of the link is proportional to the magnitude of the transfer.*
+###### *Figure 6a: Shows the percentage retention, and transfer of DW to other land classes from 1990 (left) to 2024 (right), where all percentages are relative to the extent of DW area in 1990. A link to DW indicates retention, a link to another class represents a transfer. Note that the thickness of the link is proportional to the magnitude of the transfer.*
 
 <h3 align='left'>Figure 6b: Land class contributions to gross DW gain (%)  </h3>
 <p align='left'><image src='images/sankey/sankey_gain.png' width=600></p>
 
-###### *Figure 6b: Shows the percentage retention, and transfer of DW to other land classes from 1990 (left) to 2024 (right), where all percentages are relative to 1990 levels. A link to DW indicates retention, a link to another class represents a transfer. Note that the thickness of the link is proportional to the magnitude of the transfer.*
+###### *Figure 6b: Shows the percentage contributed by land classes from 1990 (left) to DW area in 2024 (right), where all percentages are relative to the extent of DW in 2024. Links from other land classes indicate area contributed to new DW, while a link from DW represents area that has been retained. Note that the thickness of the link is proportional to the magnitude of the transfer.*
 
 <p align='left'><image src='images/sankey/land_change_class_bar.png' width=600></p>
 

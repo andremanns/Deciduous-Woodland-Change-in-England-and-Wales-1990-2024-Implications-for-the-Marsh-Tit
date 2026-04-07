@@ -136,3 +136,33 @@ Urban expansion around Manchester, Sheffield and Leeds (see figure X) resulted i
 3.	Yorkshire and the North West have been identified as ‘critical’ regions due to their high gross rates of DW loss (23.3% and 22.5% respectively). 
 4.	Urban expansion appears to be a key driver of DW loss in these critical regions, with ‘built-up areas’ clustering on the fringes of Manchester, Sheffield and Leeds. 
 5.	On a national scale, built-up areas were the third largest contributor to gross DW decline (27.0%) and responsible for the largest net loss of DW (244.3 km²).
+
+## 9. References
+1. 	Birds of Conservation Concern 5, The Birds of Conservation Concern 5 Red list.
+https://www.bto.org/sites/default/files/publications/bocc-5-a5-4pp-single-pages.pdf
+2. 	British Trust for Ornithology, Bird Trends Explorer, Marsh Tit Population Abundance in United Kingdom Long Term Trend (1994-).
+https://data.bto.org/trends_explorer/?species=Marsh+Tit
+3. UKCEH Land Cover Maps
+https://www.ceh.ac.uk/data/ukceh-land-cover-maps
+4. English Nature, Wood Pasture and Habitat Action Plan: Progress Report 2000.
+https://publications.naturalengland.org.uk/publication/211722
+5. Local Biodiversity Action Plan, Broadleaved Woodland, Current Extent.
+https://www.leicestershire.gov.uk/sites/default/files/field/pdf/2022/10/7/LLR-biodiversity-action-plan-appendix-1-woodland-hedge-tree-habitats-action-plans-01-05.pdf
+6. Natural Resources Wales, Afan Forest Resource Plan - Approved 27 April 2015, Ancient woodland sites
+https://naturalresources.wales/about-us/what-we-do/strategies-plans-and-policies/forest-resource-plans/afan-forest-resource-plan/?lang=en
+7. Natural Resources Wales, Afan Forest Resource Plan - Approved 27 April 2015, Effects of Phytophthora felling
+https://naturalresources.wales/about-us/what-we-do/strategies-plans-and-policies/forest-resource-plans/afan-forest-resource-plan/?lang=en
+8. Campaign for National Parks, South Downs National Park.
+https://www.cnp.org.uk/our-national-parks/find-national-parks/south-downs-national-park/
+
+9. gov.uk, The UK Forestry Standard Review, 
+https://forestrycommission.blog.gov.uk/2023/10/03/the-uk-forestry-standard-review/
+10. Forestry England, Creating Space for Nature, What is Open Habitat? https://www.forestryengland.uk/article/how-we-manage-open-habitats
+11. Gov.uk, The benefits of woodland creation: Woods for Nature, Encourage biodiversity with a sustainable woodland design. 
+https://www.gov.uk/government/publications/the-benefits-of-woodland-creation-woods-for-nature/the-benefits-of-woodland-creation-woods-for-nature
+12. Department for Environment Food and Rural Affairs, Agricultural facts: East Midlands region, Table 1.1: Land use in 2024. https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-east-midland-region
+13. Department for Environment Food and Rural Affairs, Agricultural facts: East of England region, Table 1.1: Land use in 2024. https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-east-of-england-region
+14. Forestry, The long-term development of temperate woodland creation sites: from tree saplings to mature woodlands, Discussion, Biodiversity value of woodland creation sites.
+https://academic.oup.com/forestry/article/95/1/28/6291829
+15. Forest Research, Woodland conservation, Ancient and semi-natural woodlands.
+https://www.forestresearch.gov.uk/climate-change/advice/woodland-conservation

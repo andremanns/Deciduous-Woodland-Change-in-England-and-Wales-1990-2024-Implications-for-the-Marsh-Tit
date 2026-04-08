@@ -205,7 +205,7 @@ https://www.forestresearch.gov.uk/climate-change/advice/woodland-conservation
 
 <p align='left'><image src='images/appendix/Leicestershire.png' width=900></p>
 
-###### *Figure A.4: Land class maps of Leicestershire in 1990 and 2024 used to show the establishment of new DW in previously arable or grassland areas.* 
+###### *Figure A.4: Land class maps of Leicestershire in 1990 and 2024 used to show the establishment of new DW and urban areas in previously arable or grassland regions.* 
 <br />
 <br />
 <br />

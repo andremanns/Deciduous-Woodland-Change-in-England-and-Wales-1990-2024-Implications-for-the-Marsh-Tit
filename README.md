@@ -1,4 +1,16 @@
 # Deciduous Woodland Change in England and Wales (1990-2024): Implications for the Marsh Tit
+## Contents
+[1. Project Background](#1-Project-Background) <br>
+[2. Data Sourcing and Data Structure](#2-Data-Sourcing-and-Data-Structure) <br>
+[3. Executive Summary](#3-Executive-Summary) <br>
+[4. National Trends](#4-National-Trends) <br>
+[5. Regional Trends](#5-Regional-Trends) <br>
+[6. Land Class Interactions](#6-Land-Class-Interactions) <br>
+[7. Implications for the Marsh Tit](#7-Implications-for-the-Marsh-Tit) <br>
+[8. Key Findings](#8-Key-Findings)
+[9. References](#9-References)
+[10. Appendix](#10-Appendix)
+
 ## 1. Project Background
 ### Context
 Following its inclusion on the ‘Birds of Conservation Concern’ Red List in 2021, long term abundance trends for the Marsh tit have continued to decline, with a 48.3% decrease on 1995 levels reported in 2023 [1], [2]. For this reason, the UKDWC have partnered with ornithological charities, and UK government agencies, to produce a report highlighting population trends of the Marsh tit, and the likely environmental drivers. The report will be used to evidence future governmental environmental policy and guide ornithological charities on habitat restoration strategies. The UKDWC has agreed to focus primarily on the suspected environmental drivers including: climate change, invasive species, pollution and habitat loss. 

@@ -7,9 +7,9 @@
 [5. Regional Trends](#5-Regional-Trends) <br>
 [6. Land Class Interactions](#6-Land-Class-Interactions) <br>
 [7. Implications for the Marsh Tit](#7-Implications-for-the-Marsh-Tit) <br>
-[8. Key Findings](#8-Key-Findings)
-[9. References](#9-References)
-[10. Appendix](#10-Appendix)
+[8. Key Findings](#8-Key-Findings) <br>
+[9. References](#9-References) <br>
+[10. Appendix](#10-Appendix) <br>
 
 ## 1. Project Background
 ### Context

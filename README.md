@@ -175,10 +175,12 @@ https://www.forestresearch.gov.uk/climate-change/advice/woodland-conservation
 ###### *Figure A.1: Land class maps of the North West and Yorkshire in 1990 and 2024. These maps provide supporting evidence for an increase in urban areas around Manchester, Sheffield and Leeds.*
 <br />
 <br />
+<br />
 
 <p align='left'><image src='images/appendix/south_east.png' width=900></p>
 
 ###### *Figure A.2: Land class maps of the South East in 1990 and 2024, evidencing the increase of built-up areas in towns and villages between London and Chichester.* 
+<br />
 <br />
 <br />
 
@@ -187,10 +189,12 @@ https://www.forestresearch.gov.uk/climate-change/advice/woodland-conservation
 ###### *Figure A.3: Land class maps of the Fens, the Yorkshire Dales and the North Pennines in 1990. These maps are used to show the dominant land cover of grassland and arable land in these regions.*
 <br />
 <br />
+<br />
 
 <p align='left'><image src='images/appendix/Leicestershire.png' width=900></p>
 
 ###### *Figure A.4: Land class maps of Leicestershire in 1990 and 2024 used to show the establishment of new DW in previously arable or grassland areas.* 
+<br />
 <br />
 <br />
 

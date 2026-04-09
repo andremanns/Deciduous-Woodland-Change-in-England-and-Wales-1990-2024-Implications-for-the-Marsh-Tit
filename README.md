@@ -51,7 +51,7 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 <h3 align='left'>Figure 4b: DW Gain  </h3>
 <p align='left'><image src='images/heatmap/gain_heatmap.png' width=900></p>
 
-###### *Figure 4b: Shows the DW gross gain density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional gain in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
+###### *Figure 4b: Shows DW gross gain density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional gain in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
 
 - Most of the landscape exhibited low-moderate levels of DW gain (0 ≤ x < 4%). Moderate-high gain areas (≥6%) were generally less abundant but present in most regions, except in large parts of the North West and the East Midlands.
 - High-gain clusters (≥8%) were evident in Western Leicestershire, South Wales and in the North East.

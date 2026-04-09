@@ -55,8 +55,8 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 
 - Most of the landscape exhibited low-moderate levels of DW gain (≤4%). Moderate-high gain areas (>4%) were generally less abundant but present in most regions, except in large parts of the North West and the East Midlands.
 - High-gain clusters (>8%) were evident in Western Leicestershire, South Wales and in the North East.
-- In Leicestershire, despite an increase in urban area, significant regions of grassland and arable land were converted into DW (see [Figure A.4.](#figA4)). A large part of this could be attributed to the Wood Pasture and Parkland Habitat Action Plan (WPPHAP), part of a regional effort to improve biodiversity in line with the UK Biodiversity Action Plan (BAP) [4]. Between 1998 and 2016 the scheme was responsible for the planting of more than 2473 ha of woodland [5].
-- In South Wales, a large proportion of new DW was inherited from coniferous or arable land types (see [Figure A.5.](#figA5)) – the result of multiple forest restoration schemes, such as the AFRP (Afan Forest Resource Plan) run by Natural Resources Wales (NRC), which aims to restore deciduous habitat on Planted Ancient Woodland Sites (PAWS) [6]. Additionally, disease-induced Larch felling, encouraged the restructuring of previously coniferous-dominant woodland [7].
+- In Leicestershire, despite an increase in urban area, significant regions of grassland and arable land were converted into DW (see [Figure A.4.](#figA4)). A large part of this could be attributed to the Wood Pasture and Parkland Habitat Action Plan (WPPHAP), part of a regional effort to improve biodiversity in line with the UK Biodiversity Action Plan (BAP) [5]. Between 1998 and 2016 the scheme was responsible for the planting of more than 2473 ha of woodland [6].
+- In South Wales, a large proportion of new DW was inherited from coniferous or arable land types (see [Figure A.5.](#figA5)) – the result of multiple forest restoration schemes, such as the AFRP (Afan Forest Resource Plan) run by Natural Resources Wales (NRC), which aims to restore deciduous habitat on Planted Ancient Woodland Sites (PAWS) [7]. Additionally, disease-induced Larch felling, encouraged the restructuring of previously coniferous-dominant woodland [8].
 
 <h3 align='left'>Figure 4c: DW Net Change  </h3>
 <p align='left'><image src='images/heatmap/net_change_heatmap.png' width=900></p>
@@ -85,7 +85,7 @@ The distribution of regional gross losses could be categorised into 3 groups:
 
 - Increases in DW exceeded losses on a regional level across all of England and Wales, with the largest gross gains evident in the North East (74.8%) and East Midlands (63.4%), supporting the cluster patterns observed in figure 4b. 
 - Trends broadly mirrored regional loss patterns, with the lowest relative changes seen across Southern England - in the South West (+25.7%) and the Southeast (+39.0%). Misleadingly, these zones experienced the 2nd and 3rd largest increases in terms of absolute area (South West=712 km², South East=621 km²), but considerable expanses of baseline DW meant relative increases ranked poorly. 
-- Variability was also higher on a regional level for DW gain (SD=12.6pp, range=49.1pp) compared to DW loss (SD=3.6pp, range=9.8pp). This may reflect differing levels of support among regional policy makers for biodiversity initiatives. Additionally, an increase in the number of National Parks, such as the South Downs (inaugurated in 2010) may have restricted urban development [8].
+- Variability was also higher on a regional level for DW gain (SD=12.6pp, range=49.1pp) compared to DW loss (SD=3.6pp, range=9.8pp). This may reflect differing levels of support among regional policy makers for biodiversity initiatives. Additionally, an increase in the number of National Parks, such as the South Downs (inaugurated in 2010) may have restricted urban development [9].
 
 <h3 align='left'>Figure 5c: DW Regional Net Change  </h3>
 <p align='left'><image src='images/regional/regional_net_change.png' width=1100></p>
@@ -116,13 +116,13 @@ The interaction of DW with other land classes is shown in figures 6a to 6c. Figu
 
 
 - Overall, DW increased by 2570.6 km² (24.8%) corresponding to an added area nearly equivalent to the size of Oxfordshire (2605 km²).
-- Grassland was the largest net contributor (1617.9 km², Figure 6c) to new DW. This is despite more DW converting to grassland (6.7%, Figure 6a) than any other class. The latter process could in part be the result of forest restructuring initiatives, such as the ‘10% open ground’ guidance introduced by the UK Forestry Standard (UKFS) in 1998 [9], [10]. In some areas tree felling was permitted to allow for an increase in the number of edge habitats [11].
+- Grassland was the largest net contributor (1617.9 km², Figure 6c) to new DW. This is despite more DW converting to grassland (6.7%, Figure 6a) than any other class. The latter process could in part be the result of forest restructuring initiatives, such as the ‘10% open ground’ guidance introduced by the UK Forestry Standard (UKFS) in 1998 [10], [11]. In some areas tree felling was permitted to allow for an increase in the number of edge habitats [12].
 - Grassland, coniferous woodland and built-up areas were together responsible for the majority of DW loss (93.2%, Figure 6a).
 - Built-up areas were the third biggest driver of DW loss (27.0%, Figure 6a). Furthermore, only 5.6% of new DW, became established in previously built-up areas (Figure 6b). As a result, this land class was responsible for the largest net loss in terms of absolute area (-244.3 km², Figure 6c).
-- By contrast, arable land accounted for a relatively small share of gross DW loss (2.8%). A large proportion of arable farming is concentrated in the East and East Midlands [12], [13] - regions where DW cover has been historically low (see Chapter 4). This could explain why the transfer of DW to arable land was minimal.  
+- By contrast, arable land accounted for a relatively small share of gross DW loss (2.8%). A large proportion of arable farming is concentrated in the East and East Midlands [13], [14] - regions where DW cover has been historically low (see Chapter 4). This could explain why the transfer of DW to arable land was minimal.  
 
 ## 7. Implications for the Marsh Tit
-While an increase in DW habitat may be of benefit to the Marsh tit, rich biodiversity in these regions can take decades to develop [14]. Furthermore, if regions of habitat gain are small and disconnected, it can leave inhabiting populations vulnerable to climatic events or food shortages [15]. Therefore, extensive net gains across England and Wales may not yield immediate benefits and could be misleading if ancient woodland has been lost. 
+While an increase in DW habitat may be of benefit to the Marsh tit, rich biodiversity in these regions can take decades to develop [15]. Furthermore, if regions of habitat gain are small and disconnected, it can leave inhabiting populations vulnerable to climatic events or food shortages [16]. Therefore, extensive net gains across England and Wales may not yield immediate benefits and could be misleading if ancient woodland has been lost. 
 
 ### Quantifying the Impact
 The current dataset is not able to distinguish between ancient DW and newly formed DW (although this could form the basis of future investigations). As a result, this report will place greater emphasis on areas of existing woodland that have been lost since these are more likely to be of greater ecological value to the Marsh tit. 
@@ -154,29 +154,31 @@ Urban expansion around Manchester, Sheffield and Leeds (see [Figure A.1.](#figA1
 https://www.bto.org/sites/default/files/publications/bocc-5-a5-4pp-single-pages.pdf
 2. 	British Trust for Ornithology, Bird Trends Explorer, Marsh Tit Population Abundance in United Kingdom Long Term Trend (1994-).
 https://data.bto.org/trends_explorer/?species=Marsh+Tit
-3. UKCEH Land Cover Maps
-https://www.ceh.ac.uk/data/ukceh-land-cover-maps
-4. English Nature, Wood Pasture and Habitat Action Plan: Progress Report 2000.
+3. Rowland, C.S.; Marston, C.G.; Morton, R.D.; O’Neil, A.W. (2020). Land Cover Map 1990 (25m 
+raster, GB) v2. NERC Environmental Information Data Centre. 
+https://doi.org/10.5285/1be1912a-916e-42c0-98cc-16460fac00e8
+4. Rowland, C.S.; Marston, C.G.; O'Neil, A.W. (2025). Land Cover Map 2024 (25m rasterised land parcels, GB). NERC EDS Environmental Information Data Centre. https://doi.org/10.5285/0e3ab6f8-4a20-4a60-a804-e144fb0bde39
+5. English Nature, Wood Pasture and Habitat Action Plan: Progress Report 2000.
 https://publications.naturalengland.org.uk/publication/211722
-5. Local Biodiversity Action Plan, Broadleaved Woodland, Current Extent.
+6. Local Biodiversity Action Plan, Broadleaved Woodland, Current Extent.
 https://www.leicestershire.gov.uk/sites/default/files/field/pdf/2022/10/7/LLR-biodiversity-action-plan-appendix-1-woodland-hedge-tree-habitats-action-plans-01-05.pdf
-6. Natural Resources Wales, Afan Forest Resource Plan - Approved 27 April 2015, Ancient woodland sites
+7. Natural Resources Wales, Afan Forest Resource Plan - Approved 27 April 2015, Ancient woodland sites
 https://naturalresources.wales/about-us/what-we-do/strategies-plans-and-policies/forest-resource-plans/afan-forest-resource-plan/?lang=en
-7. Natural Resources Wales, Afan Forest Resource Plan - Approved 27 April 2015, Effects of Phytophthora felling
+8. Natural Resources Wales, Afan Forest Resource Plan - Approved 27 April 2015, Effects of Phytophthora felling
 https://naturalresources.wales/about-us/what-we-do/strategies-plans-and-policies/forest-resource-plans/afan-forest-resource-plan/?lang=en
-8. Campaign for National Parks, South Downs National Park.
+9. Campaign for National Parks, South Downs National Park.
 https://www.cnp.org.uk/our-national-parks/find-national-parks/south-downs-national-park/
 
-9. gov.uk, The UK Forestry Standard Review, 
+10. gov.uk, The UK Forestry Standard Review, 
 https://forestrycommission.blog.gov.uk/2023/10/03/the-uk-forestry-standard-review/
-10. Forestry England, Creating Space for Nature, What is Open Habitat? https://www.forestryengland.uk/article/how-we-manage-open-habitats
-11. Gov.uk, The benefits of woodland creation: Woods for Nature, Encourage biodiversity with a sustainable woodland design. 
+11. Forestry England, Creating Space for Nature, What is Open Habitat? https://www.forestryengland.uk/article/how-we-manage-open-habitats
+12. Gov.uk, The benefits of woodland creation: Woods for Nature, Encourage biodiversity with a sustainable woodland design. 
 https://www.gov.uk/government/publications/the-benefits-of-woodland-creation-woods-for-nature/the-benefits-of-woodland-creation-woods-for-nature
-12. Department for Environment Food and Rural Affairs, Agricultural facts: East Midlands region, Table 1.1: Land use in 2024. https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-east-midland-region
-13. Department for Environment Food and Rural Affairs, Agricultural facts: East of England region, Table 1.1: Land use in 2024. https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-east-of-england-region
-14. Forestry, The long-term development of temperate woodland creation sites: from tree saplings to mature woodlands, Discussion, Biodiversity value of woodland creation sites.
+13. Department for Environment Food and Rural Affairs, Agricultural facts: East Midlands region, Table 1.1: Land use in 2024. https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-east-midland-region
+14. Department for Environment Food and Rural Affairs, Agricultural facts: East of England region, Table 1.1: Land use in 2024. https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-east-of-england-region
+15. Forestry, The long-term development of temperate woodland creation sites: from tree saplings to mature woodlands, Discussion, Biodiversity value of woodland creation sites.
 https://academic.oup.com/forestry/article/95/1/28/6291829
-15. Forest Research, Woodland conservation, Ancient and semi-natural woodlands.
+16. Forest Research, Woodland conservation, Ancient and semi-natural woodlands.
 https://www.forestresearch.gov.uk/climate-change/advice/woodland-conservation
 
 ## 10. Appendix

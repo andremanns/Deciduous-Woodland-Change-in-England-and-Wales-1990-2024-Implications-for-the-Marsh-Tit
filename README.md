@@ -129,16 +129,16 @@ The current dataset is not able to distinguish between ancient DW and newly form
 
 Based on the results, areas in England and Wales have been grouped into three categories: 
 
-1.	Most Improved: High DW gain, low DW loss
+**1.	Most Improved: High DW gain, low DW loss**
 
 Such regions include the East Midlands and the North East. In the East Midlands, particularly around Western Leicestershire, the planting of 2473 ha of DW between 1998 and 2016, part of the UKBAP initiative, was key to high gross gains (63.4%). Despite an increase in built-up areas, regional gross losses remained low (16.45%) – a reduction in arable land and grassland in the region may have accommodated urban development (see Figure A.4.).
 
-2.	Moderate threat: Mix of DW gain and loss
+**2.	Moderate threat: Mix of DW gain and loss**
 
 High loss clusters (≥8%) were observed in the South East between London and Chichester (see Figure 4a). Despite this, an extensive baseline area (2411 km²) meant relative DW losses remained low (13.8%) compared to other regions. Additionally, the inauguration of the South Downs as a National Park may have helped to stabilise habitat loss. 
 Moderate gross gains were seen in Wales (46.8%). Key contributors include forest restoration schemes like the AFRP in South Wales, responsible for converting previous coniferous plantations into DW (see Figure A.5.). This was hindered by large relative gross losses across the country (22.0%). 
 
-3.	Critical: High DW loss, low DW gain
+**3.	Critical: High DW loss, low DW gain**
 
 Urban expansion around Manchester, Sheffield and Leeds (see Figure A.1.) resulted in high DW loss clusters (≥8%). On a regional level, this resulted in Yorkshire (-23.3%) and the North West (-22.5%) ranking 1st and 2nd in terms of gross relative DW loss respectively. Furthermore, Yorkshire ranked 2nd lowest for net relative DW gain (18.0%) in England and Wales. 
 

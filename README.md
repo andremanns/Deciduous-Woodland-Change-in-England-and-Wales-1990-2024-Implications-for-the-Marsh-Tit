@@ -145,7 +145,7 @@ Urban expansion around Manchester, Sheffield and Leeds (see Figure A.1.) resulte
 ## 8. Key Findings
 1.	DW increased by nearly a quarter (24.8%) in England and Wales between 1990 and 2024.
 2.	All ITL1 regions experienced a net increase in DW, although significant gross losses were observed (13.5% to 23.3%).
-3.	Yorkshire and the North West have been identified as ‘critical’ regions due to their high gross rates of DW loss (23.3% and 22.5% respectively). 
+3.	Yorkshire and the North West have been identified as ‘critical’ regions due to their high gross levels of DW loss (23.3% and 22.5% respectively). 
 4.	Urban expansion appears to be a key driver of DW loss in these critical regions, with ‘built-up areas’ clustering on the fringes of Manchester, Sheffield and Leeds. 
 5.	On a national scale, built-up areas were the third largest contributor to gross DW decline (27.0%) and responsible for the largest net loss of DW (244.3 km²).
 

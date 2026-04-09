@@ -129,7 +129,7 @@ The current dataset is not able to distinguish between ancient DW and newly form
 
 Based on the results, areas in England and Wales have been grouped into three categories: 
 
-1.	Low threat: High DW gain, low DW loss
+1.	Most Improved: High DW gain, low DW loss
 
 Such regions include the East Midlands and the North East. In the East Midlands, particularly around Western Leicestershire, the planting of 2473 ha of DW between 1998 and 2016, part of the UKBAP initiative, was key to high gross gains (63.4%). Despite an increase in built-up areas, regional gross losses remained low (16.45%) – a reduction in arable land and grassland in the region may have accommodated urban development (see Figure A.4.).
 

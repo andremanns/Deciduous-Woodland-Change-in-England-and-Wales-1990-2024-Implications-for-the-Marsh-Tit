@@ -112,7 +112,7 @@ The interaction of DW with other land classes is shown in figures 6a to 6c. Figu
 <h3 align='left'>Figure 6c: Net change in DW area by land class  </h3>
 <p align='left'><image src='images/sankey/land_change_class_bar.png' width=600></p>
 
-###### *Figure 6c: Net change in absolute DW area resulting from land class transfers between 1990 and 2024. A net positive change, indicates that the extent of new DW created, exceeded the total area of DW lost to that land class.*
+###### *Figure 6c: Net change in absolute DW area resulting from land class transfers between 1990 and 2024. A net positive change, indicates that the extent of DW created (gross gains), exceeded the total area of DW lost (gross losses) to that land class.*
 
 
 - Overall, DW increased by 2570.6 km² (24.8%) corresponding to an added area nearly equivalent to the size of Oxfordshire (2605 km²).

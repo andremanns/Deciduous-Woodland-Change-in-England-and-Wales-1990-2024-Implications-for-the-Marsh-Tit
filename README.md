@@ -23,7 +23,7 @@ The UKDWC is a non-profit environmental research organisation, that monitors bio
 <p align='left'><image src='images/project_background/logo.png' width=300></p>
 
 ## 2. Data Sourcing and Data Structure
-UKCEH 25m raster maps from 1990 and 2024 [3] were cleaned and analysed in QGIS to determine land classification changes relevant to Marsh tit habitat. Before the analysis, both datasets were clipped to England and Wales, and land classes were grouped for simplicity. Figure 2a illustrates how the data was prepared. 
+UKCEH 25m raster maps from 1990 [3] and 2024 [4] were cleaned and analysed in QGIS to determine land classification changes relevant to Marsh tit habitat. Before the analysis, both datasets were clipped to England and Wales, and land classes were grouped for simplicity. Figure 2a illustrates how the data was prepared. 
 <h3 align='left'>Figure 2a: Extracting Land Cover Classification Data  </h3>
 <p align='left'><image src='images/data_sourcing/data_sourcing.png' width=900></p>
   

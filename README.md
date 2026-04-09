@@ -44,9 +44,9 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 
 - In most areas, the proportion of DW loss was less than or equal to 2%.
 - Areas declining by more than 8% were sparsely distributed through most of England and Wales, but clusters were present in the North West - particularly regions around the Peak District on the rural-urban fringes of Manchester, Sheffield and Leeds. The increase of urban land in these locations (see Figure A.1.), suggests urban sprawl may have contributed to the decline. 
-- High loss regions (≥8%) were also observed in the South East between London and Chichester, and in South Wales. In the South East, a reduction of DW was evident around smaller towns and villages, coinciding with an increase in urban developments (see Figure A.2.). 
+- High loss regions (>8%) were also observed in the South East between London and Chichester, and in South Wales. In the South East, a reduction of DW was evident around smaller towns and villages, coinciding with an increase in urban developments (see Figure A.2.). 
 - While regions of ‘no change’ were prominent in the Fens, the North Pennines and Yorkshire Dales, the dominant land class in these regions has historically been arable or grassland (see Figure A.3.). For this reason, lower proportional gross losses would be expected.
-- High loss areas (≥8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
+- High loss areas (>8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
 
 <h3 align='left'>Figure 4b: DW Gain  </h3>
 <p align='left'><image src='images/heatmap/gain_heatmap.png' width=900></p>

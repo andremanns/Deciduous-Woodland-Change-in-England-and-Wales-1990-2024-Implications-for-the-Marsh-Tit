@@ -66,7 +66,7 @@ The heatmaps in figures 4a to 4c show the percentage loss, gain and net change o
 Net change trends broadly reflected those observed in figures 4a and 4b, with the largest increases (>+6%) concentrating in the North East, South Wales and Western Leicestershire. High loss areas by comparison (≤-6%), were less abundant converging in parts of the North West and South East. Outside of these loss regions, DW cover predominantly remained constant or increased moderately (+2% < x ≤ +6%), indicating that afforestation processes were dominant overall.
 
 ## 5. Regional Trends
-Figures 5a to 5c illustrate the percentage change in DW area across ITL1 (International Territorial Level 1) regions in England and Wales between 1990 and 2024. Values were calculated relative to baseline levels of DW recorded in 1990.
+Figures 5a to 5c illustrate the percentage change in DW area across International Territorial Level 1 (ITL1) regions in England and Wales between 1990 and 2024. Values were calculated relative to baseline levels of DW recorded in 1990.
 
 <h3 align='left'>Figure 5a: DW Regional Loss  </h3>
 <p align='left'><image src='images/regional/regional_loss.png' width=1100></p>

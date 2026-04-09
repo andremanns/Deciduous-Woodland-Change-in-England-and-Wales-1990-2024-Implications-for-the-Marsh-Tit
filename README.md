@@ -140,7 +140,7 @@ Moderate gross gains were seen in Wales (46.8%). Key contributors include forest
 
 **3.	Critical: High DW loss, low DW gain**
 
-Urban expansion around Manchester, Sheffield and Leeds (see Figure A.1.) resulted in high DW loss clusters (≥8%). On a regional level, this resulted in Yorkshire (-23.3%) and the North West (-22.5%) ranking 1st and 2nd in terms of gross relative DW loss respectively. Furthermore, Yorkshire ranked 2nd lowest for net relative DW gain (18.0%) in England and Wales. 
+Urban expansion around Manchester, Sheffield and Leeds (see Figure A.1.) resulted in high DW loss clusters (>8%). On a regional level, this resulted in Yorkshire (-23.3%) and the North West (-22.5%) ranking 1st and 2nd in terms of gross relative DW loss respectively (see Figure 5a). Furthermore, Yorkshire ranked 2nd lowest for net relative DW gain (18.0%) in England and Wales (Figure 5c). 
 
 ## 8. Key Findings
 1.	DW increased by nearly a quarter (24.8%) in England and Wales between 1990 and 2024.

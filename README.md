@@ -17,7 +17,7 @@ Following its inclusion on the ‘Birds of Conservation Concern’ Red List in 2
 ### The Goal
 As a GIS analyst working for the UKDWC, the focus will be to provide insight into the long-term change of Marsh tit habitat cover in the UK using UK Centre for Ecology & Hydrology (UKCEH) land classification data. Key parameters for the study include, confining the analysis to deciduous woodland (DW) in England and Wales. This reflects the current populations spatial occupancy and preferred habitat [3]. 
 
-An initial report is to be delivered to the Director of Environmental Analysis, detailing National and regional land classification changes between 1990 and 2024. The report will highlight the most significant areas of habitat change, detail the causes and explain if this is likely to have impacted Marsh tit population levels.  
+An initial report is to be delivered to the Head of Environmental Analysis, detailing National and regional land classification changes between 1990 and 2024. The report will highlight the most significant areas of habitat change, detail the causes and explain if this is likely to have impacted Marsh tit population levels.  
 ### About the UKDWC
 The UKDWC is a non-profit environmental research organisation, that monitors biodiversity and ecosystems in the UK, reporting its findings to various charities and central government. Since its founding in 1963, the company has gained a reputation for its excellent ecological and environmental modelling capabilities.
 <p align='left'><image src='images/project_background/logo.png' width=300></p>

@@ -135,8 +135,8 @@ Such regions include the East Midlands and the North East. In the East Midlands,
 
 **2.	Moderate threat: Mix of DW gain and loss**
 
-High loss clusters (≥8%) were observed in the South East between London and Chichester (see Figure 4a). Despite this, an extensive baseline area (2411 km²) meant relative DW losses remained low (13.8%) compared to other regions. Additionally, the inauguration of the South Downs as a National Park may have helped to stabilise habitat loss. 
-Moderate gross gains were seen in Wales (46.8%). Key contributors include forest restoration schemes like the AFRP in South Wales, responsible for converting previous coniferous plantations into DW (see Figure A.5.). This was hindered by large relative gross losses across the country (22.0%). 
+High loss clusters (>8%) were observed in the South East between London and Chichester (see Figure 4a). Despite this, an extensive baseline area (2411 km²) meant relative DW losses remained low (13.8%) compared to other regions. Additionally, the inauguration of the South Downs as a National Park may have helped to stabilise habitat loss. 
+Moderate gross gains were seen in Wales (46.8%). Key contributors include forest restoration schemes like the AFRP in South Wales, responsible for converting previous coniferous plantations into DW (see Figure A.5.). This was hindered by large relative gross losses across the country (22.0%, Figure 5a). 
 
 **3.	Critical: High DW loss, low DW gain**
 

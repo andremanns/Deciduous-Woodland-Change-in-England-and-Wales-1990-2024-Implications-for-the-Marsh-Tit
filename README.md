@@ -182,10 +182,9 @@ https://www.forestresearch.gov.uk/climate-change/advice/woodland-conservation
 ## 10. Appendix
 ### Appendix A
 
-<p align='left'><image src='images/appendix/north_west.png' width=900></p>
-
 <a id="figA1"></a>
 ###### *Figure A.1: Land class maps of the North West and Yorkshire in 1990 and 2024. These maps provide supporting evidence for an increase in urban areas around Manchester, Sheffield and Leeds.*
+<p align='left'><image src='images/appendix/north_west.png' width=900></p>
 <br />
 <br />
 <br />

@@ -1,0 +1,218 @@
+# Deciduous Woodland Change in England and Wales (1990-2024): Implications for the Marsh Tit
+## Contents
+[1. Project Background](#1-Project-Background) <br>
+[2. Data Sourcing and Data Structure](#2-Data-Sourcing-and-Data-Structure) <br>
+[3. Executive Summary](#3-Executive-Summary) <br>
+[4. Spatial Patterns](#4-Spatial-Patterns) <br>
+[5. Regional Trends](#5-Regional-Trends) <br>
+[6. Land Class Interactions](#6-Land-Class-Interactions) <br>
+[7. Implications for the Marsh Tit](#7-Implications-for-the-Marsh-Tit) <br>
+[8. Key Findings](#8-Key-Findings) <br>
+[9. References](#9-References) <br>
+[10. Appendix](#10-Appendix) <br>
+
+## 1. Project Background
+### Context
+Following its inclusion on the ‘Birds of Conservation Concern’ Red List in 2021, long term abundance trends for the Marsh tit have continued to decline, with a 48.3% decrease on 1995 levels reported in 2023 [1], [2]. For this reason, the UK Data for Wildlife Conservation (UKDWC) have partnered with ornithological charities, and UK government agencies, to produce a report highlighting population trends of the Marsh tit, and the likely environmental drivers. The report will be used to evidence future governmental environmental policy and guide ornithological charities on habitat restoration strategies. The UKDWC has agreed to focus primarily on the suspected environmental drivers including: climate change, invasive species, pollution and habitat loss. 
+### The Goal
+As a GIS analyst working for the UKDWC, the focus will be to provide insight into the long-term change of Marsh tit habitat cover in the UK using UK Centre for Ecology & Hydrology (UKCEH) land classification data. Key parameters for the study include, confining the analysis to Deciduous Woodland (DW) in England and Wales. This reflects the current populations spatial occupancy and preferred habitat [3]. 
+
+An initial report is to be delivered to the Head of Environmental Analysis, detailing National and regional land classification changes between 1990 and 2024. The report will highlight the most significant areas of habitat change, detail the causes and explain if this is likely to have impacted Marsh tit population levels.  
+### About the UKDWC
+The UKDWC is a non-profit environmental research organisation, that monitors biodiversity and ecosystems in the UK, reporting its findings to various charities and central government. Since its founding in 1963, the company has gained a reputation for its excellent ecological and environmental modelling capabilities.
+<p align='left'><image src='images/project_background/logo.png' width=300></p>
+
+## 2. Data Sourcing and Data Structure
+UKCEH 25m raster maps from 1990 [3] and 2024 [4] were cleaned and analysed in QGIS to determine land classification changes relevant to Marsh tit habitat. Before the analysis, both datasets were clipped to England and Wales, and land classes were grouped for simplicity. Figure 2a illustrates how the data was prepared. 
+<h3 align='left'>Figure 2a: Extracting Land Cover Classification Data  </h3>
+<p align='left'><image src='images/data_sourcing/data_sourcing.png' width=900></p>
+  
+###### *Figure 2a: Shows how the 21 UKCEH land classes (A) were grouped into 7 broader categories (B) in QGIS. Following categorisation and clipping, a land cover change analysis was performed (using maps B) to determine classification gains and losses between 1990 and 2024. To generate heatmaps highlighting the distribution of DW changes, the classes were grouped again (C) into loss, gain and no change.*
+
+## 3. Executive Summary 
+Despite net increases in Deciduous Woodland (DW) across England and Wales (+24.8%), significant gross losses were observed across all International Territorial Level 1 (ITL1) regions (13.5% to 23.3%). Yorkshire and the North West ranked highest for gross DW loss, with urban expansion highly prevalent in these regions. On a national scale, built-up areas were the largest contributor to net DW loss (-244.3 km²), accounting for 27.2% of all gross losses.
+
+The Marsh tit’s preference for ancient DW means the loss of established habitat areas cannot be immediately reversed by replacing or increasing DW. For this reason, it is likely that species abundance has been heavily impacted in Yorkshire and the North West since 1990. Both regions have been marked as ‘critical’ and further research is recommended to determine the impact on the local populations. 
+
+## 4. Spatial Patterns 
+The heatmaps in figures 4a to 4c show the percentage loss, gain and net change of DW in England and Wales between 1990 and 2024. A 5.1x5.1km moving window was used to estimate proportional values, interspersed at 100m intervals. 
+
+<h3 align='left'>Figure 4a: DW Loss  </h3>
+<p align='left'><image src='images/heatmap/loss_heatmap.png' width=900></p>
+
+###### *Figure 4a: Shows the DW gross loss density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional loss of area within a 5.1x5.1km area centred around a focal cell. For example, a 10% loss indicates a reduction in DW of 2.6 km².*
+
+- In most areas, the proportion of DW loss was less than or equal to 2%.
+- Areas declining by more than 8% were sparsely distributed through most of England and Wales, but clusters were present in the North West - particularly regions around the Peak District on the rural-urban fringes of Manchester, Sheffield and Leeds. The increase of urban land in these locations (see [Figure A.1.](#figA1)), suggests urban sprawl may have contributed to the decline. 
+- High loss regions (>8%) were also observed in the South East between London and Chichester, and in South Wales. In the South East, a reduction of DW was evident around smaller towns and villages, coinciding with an increase in urban developments (see [Figure A.2.](#figA2)). 
+- While regions of ‘no change’ were prominent in the Fens, the North Pennines and Yorkshire Dales, the dominant land class in these regions has historically been arable or grassland (see [Figure A.3.](#figA3)). For this reason, lower proportional gross losses would be expected.
+- High loss areas (>8%) were sparse in the East Midlands and East of England. Both regions coincide with extensive areas of arable land cover, limiting the potential for considerable DW loss. 
+
+<h3 align='left'>Figure 4b: DW Gain  </h3>
+<p align='left'><image src='images/heatmap/gain_heatmap.png' width=900></p>
+
+###### *Figure 4b: Shows DW gross gain density (0-10%) in England and Wales between 1990 and 2024. Binary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional gain in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
+
+- Most of the landscape exhibited low-moderate levels of DW gain (≤4%). Moderate-high gain areas (>4%) were generally less abundant but present in most regions, except in large parts of the North West and the East Midlands.
+- High-gain clusters (>8%) were evident in Western Leicestershire, South Wales and in the North East.
+- In Leicestershire, despite an increase in urban area, significant regions of grassland and arable land were converted into DW (see [Figure A.4.](#figA4)). A large part of this could be attributed to the Wood Pasture and Parkland Habitat Action Plan (WPPHAP), part of a regional effort to improve biodiversity in line with the UK Biodiversity Action Plan (BAP) [5]. Between 1998 and 2016 the scheme was responsible for the planting of more than 2473 ha of woodland [6].
+- In South Wales, a large proportion of new DW was inherited from coniferous or arable land types (see [Figure A.5.](#figA5)) – the result of multiple forest restoration schemes, such as the AFRP (Afan Forest Resource Plan) run by Natural Resources Wales (NRC), which aims to restore deciduous habitat on Planted Ancient Woodland Sites (PAWS) [7]. Additionally, disease-induced Larch felling, encouraged the restructuring of previously coniferous-dominant woodland [8].
+
+<h3 align='left'>Figure 4c: DW Net Change  </h3>
+<p align='left'><image src='images/heatmap/net_change_heatmap.png' width=900></p>
+
+###### *Figure 4c: Shows the DW net change density (-10% to +10%) in England and Wales between 1990 and 2024. Ternary raster cells falling within a moving window were averaged using the ‘r.neighbors’ tool in QGIS. The results, illustrated in percentage form, show the proportional net change in area within a 5.1x5.1km window centred around a focal cell. For example, a 10% gain indicates an increase in DW of 2.6 km².*
+
+Net change trends broadly reflected those observed in figures 4a and 4b, with the largest increases (>+6%) concentrating in the North East, South Wales and Western Leicestershire. High loss areas by comparison (≤-6%), were less abundant converging in parts of the North West and South East. Outside of these loss regions, DW cover predominantly remained constant or increased moderately (+2% < x ≤ +6%), indicating that afforestation processes were dominant overall.
+
+## 5. Regional Trends
+Figures 5a to 5c illustrate the percentage change in DW area across International Territorial Level 1 (ITL1) regions in England and Wales between 1990 and 2024. Values were calculated relative to baseline levels of DW recorded in 1990.
+
+<h3 align='left'>Figure 5a: DW Regional Loss  </h3>
+<p align='left'><image src='images/regional/regional_loss.png' width=1100></p>
+
+###### *Figure 5a: The relative gross decrease (%) in area across ITL1 regions in England and Wales between 1990 and 2024. As an example, the North West had a baseline extent of 850.0 km² and gross losses of 191.4 km², resulting in a relative gross decrease of 22.5%.* 
+  
+The distribution of regional gross losses could be categorised into 3 groups:
+- The largest declines were observed in Wales and Northern regions of England (19.4-23.3%, mean=21.8%), with Yorkshire showing the greatest decrease (23.3%). This corresponds with clusters of high DW loss around Manchester, Sheffield, Leeds and South Wales (see Figure 4a).
+- The magnitude of decline was lowest in southeastern parts of England - specifically London, the South East and the East (13.5-14.1%, mean=13.8%). While the South East coincides with an area of large proportional loss (see figure 4a), in 1990 it was recorded as having the largest expanse of DW area in England and Wales (2411 km²). This could explain why relative decline in the region was low. 
+- The East Midlands, West Midlands and South West experienced moderate losses (15.1-17.6%, mean=16.4%), forming a transition zone from higher loss regions in Northern-England and Wales, to lower loss regions in the Southeast.
+
+<h3 align='left'>Figure 5b: DW Regional Gain  </h3>
+<p align='left'><image src='images/regional/regional_gain.png' width=1100></p>
+
+###### *Figure 5b: The relative gross gain (%) in area across ITL1 regions in England and Wales between 1990 and 2024. As an example, the North West had a baseline extent of 850.0 km² and gross gains of 407.1 km², resulting in a relative gross increase of 47.9%.* 
+
+- Increases in DW exceeded losses on a regional level across all of England and Wales, with the largest gross gains evident in the North East (74.8%) and East Midlands (63.4%), supporting the cluster patterns observed in figure 4b. 
+- Trends broadly mirrored regional loss patterns, with the lowest relative changes seen across Southern England - in the South West (+25.7%) and the Southeast (+39.0%). Misleadingly, these zones experienced the 2nd and 3rd largest increases in terms of absolute area (South West=712 km², South East=621 km²), but considerable expanses of baseline DW meant relative increases ranked poorly. 
+- Variability was also higher on a regional level for DW gain (SD=12.6pp, range=49.1pp) compared to DW loss (SD=3.6pp, range=9.8pp). This may reflect differing levels of support among regional policy makers for biodiversity initiatives. Additionally, an increase in the number of National Parks, such as the South Downs (inaugurated in 2010) may have restricted urban development [9].
+
+<h3 align='left'>Figure 5c: DW Regional Net Change  </h3>
+<p align='left'><image src='images/regional/regional_net_change.png' width=1100></p>
+
+###### *Figure 5c: The relative net change (%) in area across ITL1 regions in England and Wales between 1990 and 2024. As an example, the North West had a baseline extent of 850.0 km² and a net change of +215.7 km², resulting in a relative net change of +25.4%.* 
+
+A net increase was recorded across all regions, with the rank of the top three regions (North East, East Midlands and the East) consistent with those observed in the gross gains analysis (see figure 4b). Yorkshire (+18.0%), the South East (+11.9%) and the South West (+23.9%) delivered the lowest net increases. As previously mentioned, a low ranking in the latter two can be explained by their large baseline DW areas; Yorkshire on the other hand ranked 7th in terms of its baseline DW extent (811 km²). Poor overall performance in this region is likely linked to it losing nearly a quarter (23.3%) of its DW from 1990 (see figure 4a). Across the remaining regions, low to moderate net increases (+20 < x ≤ +40%) were evident. 
+
+## 6. Land Class Interactions
+The interaction of DW with other land classes is shown in figures 6a to 6c. Figures 6a and 6b detail the relative transfer of DW with other land classes in England and Wales between 1990 and 2024, while absolute changes in area are outlined by figures 6c.
+
+<h3 align='left'>Figure 6a: Land class contributions to gross DW loss (%)  </h3>
+<p align='left'><image src='images/sankey/sankey_loss.png' width=600></p>
+
+###### *Figure 6a: Shows the percentage retention, and transfer of DW to other land classes from 1990 (left) to 2024 (right), where all percentages are relative to the extent of DW area in 1990. A link to DW indicates retention, a link to another class represents a transfer. Note that the thickness of the link is proportional to the magnitude of the transfer.*
+
+
+<h3 align='left'>Figure 6b: Land class contributions to gross DW gain (%)  </h3>
+<p align='left'><image src='images/sankey/sankey_gain.png' width=600></p>
+
+###### *Figure 6b: Shows the percentage contributed by land classes from 1990 (left) to DW area in 2024 (right), where all percentages are relative to the extent of DW in 2024. Links from other land classes indicate area contributed to new DW, while a link from DW represents area that has been retained. Note that the thickness of the link is proportional to the magnitude of the transfer.*
+
+
+<h3 align='left'>Figure 6c: Net change in DW area by land class  </h3>
+<p align='left'><image src='images/sankey/land_change_class_bar.png' width=600></p>
+
+###### *Figure 6c: Net change in absolute DW area resulting from land class transfers between 1990 and 2024. A net positive change, indicates that the extent of DW created (gross gains), exceeded the total area of DW lost (gross losses) to that land class.*
+
+
+- Overall, DW increased by 2570.6 km² (24.8%) corresponding to an added area nearly equivalent to the size of Oxfordshire (2605 km²).
+- Grassland was the largest net contributor (1617.9 km², Figure 6c) to new DW. This is despite more DW converting to grassland (6.7%, Figure 6a) than any other class. The latter process could in part be the result of forest restructuring initiatives, such as the ‘10% open ground’ guidance introduced by the UK Forestry Standard (UKFS) in 1998 [10], [11]. In some areas tree felling was permitted to allow for an increase in the number of edge habitats [12].
+- Grassland, coniferous woodland and built-up areas were together responsible for the majority of DW loss (93.2%, Figure 6a).
+- Built-up areas were the third biggest driver of DW loss (27.0%, Figure 6a). Furthermore, only 5.6% of new DW, became established in previously built-up areas (Figure 6b). As a result, this land class was responsible for the largest net loss in terms of absolute area (-244.3 km², Figure 6c).
+- By contrast, arable land accounted for a relatively small share of gross DW loss (2.8%). A large proportion of arable farming is concentrated in the East and East Midlands [13], [14] - regions where DW cover has been historically low (see Chapter 4). This could explain why the transfer of DW to arable land was minimal.  
+
+## 7. Implications for the Marsh Tit
+While an increase in DW habitat may be of benefit to the Marsh tit, rich biodiversity in these regions can take decades to develop [15]. Furthermore, if regions of habitat gain are small and disconnected, it can leave inhabiting populations vulnerable to climatic events or food shortages [16]. Therefore, extensive net gains across England and Wales may not yield immediate benefits and could be misleading if ancient woodland has been lost. 
+
+### Quantifying the Impact
+The current dataset is not able to distinguish between ancient DW and newly formed DW (although this could form the basis of future investigations). As a result, this report will place greater emphasis on areas of existing woodland that have been lost since these are more likely to be of greater ecological value to the Marsh tit. 
+
+Based on the results, areas in England and Wales have been grouped into three categories: 
+
+**1.	Most Improved: High DW gain, low DW loss**
+
+Such regions include the East Midlands and the North East. In the East Midlands, particularly around Western Leicestershire, the planting of 2473 ha of DW between 1998 and 2016, part of the UKBAP initiative, was key to high gross gains (63.4%). Despite an increase in built-up areas, regional gross losses remained low (16.45%) – a reduction in arable land and grassland in the region may have accommodated this urban development (see [Figure A.4.](#figA4)).
+
+**2.	Moderate Threat: Mix of DW gain and loss**
+
+High loss clusters (>8%) were observed in the South East between London and Chichester (see Figure 4a). Despite this, an extensive baseline area (2411 km²) meant relative DW losses remained low (13.8%) compared to other regions. Additionally, the inauguration of the South Downs as a National Park may have helped to stabilise habitat loss. 
+Moderate gross gains were seen in Wales (46.8%). Key contributors include forest restoration schemes like the AFRP in South Wales, responsible for converting previous coniferous plantations into DW (see [Figure A.5.](#figA5)). This was hindered by large relative gross losses across the country (21.9%, Figure 5a). 
+
+**3.	Critical: High DW loss, low DW gain**
+
+Urban expansion around Manchester, Sheffield and Leeds (see [Figure A.1.](#figA1)) resulted in high DW loss clusters (>8%). On a regional level, this resulted in Yorkshire (-23.3%) and the North West (-22.5%) ranking 1st and 2nd in terms of gross relative DW loss respectively (see Figure 5a). Furthermore, Yorkshire ranked 2nd lowest for net relative DW gain (18.0%) in England and Wales (Figure 5c). 
+
+## 8. Key Findings
+1.	DW increased by nearly a quarter (24.8%) in England and Wales between 1990 and 2024.
+2.	All ITL1 regions experienced a net increase in DW, although significant gross losses were observed (13.5% to 23.3%).
+3.	Yorkshire and the North West have been identified as ‘critical’ regions due to their high gross levels of DW loss (23.3% and 22.5% respectively). 
+4.	Urban expansion appears to be a key driver of DW loss in these critical regions, with ‘built-up areas’ clustering on the fringes of Manchester, Sheffield and Leeds. 
+5.	On a national scale, built-up areas were the third largest contributor to gross DW decline (27.0%) and responsible for the largest net loss of DW (244.3 km²).
+
+## 9. References
+1. 	Birds of Conservation Concern 5, The Birds of Conservation Concern 5 Red list.
+https://www.bto.org/sites/default/files/publications/bocc-5-a5-4pp-single-pages.pdf
+2. 	British Trust for Ornithology, Bird Trends Explorer, Marsh Tit Population Abundance in United Kingdom Long Term Trend (1994-).
+https://data.bto.org/trends_explorer/?species=Marsh+Tit
+3. Rowland, C.S.; Marston, C.G.; Morton, R.D.; O’Neil, A.W. (2020). Land Cover Map 1990 (25m 
+raster, GB) v2. NERC Environmental Information Data Centre. 
+https://doi.org/10.5285/1be1912a-916e-42c0-98cc-16460fac00e8
+4. Rowland, C.S.; Marston, C.G.; O'Neil, A.W. (2025). Land Cover Map 2024 (25m rasterised land parcels, GB). NERC EDS Environmental Information Data Centre. https://doi.org/10.5285/0e3ab6f8-4a20-4a60-a804-e144fb0bde39
+5. English Nature, Wood Pasture and Habitat Action Plan: Progress Report 2000.
+https://publications.naturalengland.org.uk/publication/211722
+6. Local Biodiversity Action Plan, Broadleaved Woodland, Current Extent.
+https://www.leicestershire.gov.uk/sites/default/files/field/pdf/2022/10/7/LLR-biodiversity-action-plan-appendix-1-woodland-hedge-tree-habitats-action-plans-01-05.pdf
+7. Natural Resources Wales, Afan Forest Resource Plan - Approved 27 April 2015, Ancient woodland sites
+https://naturalresources.wales/about-us/what-we-do/strategies-plans-and-policies/forest-resource-plans/afan-forest-resource-plan/?lang=en
+8. Natural Resources Wales, Afan Forest Resource Plan - Approved 27 April 2015, Effects of Phytophthora felling
+https://naturalresources.wales/about-us/what-we-do/strategies-plans-and-policies/forest-resource-plans/afan-forest-resource-plan/?lang=en
+9. Campaign for National Parks, South Downs National Park.
+https://www.cnp.org.uk/our-national-parks/find-national-parks/south-downs-national-park/
+
+10. gov.uk, The UK Forestry Standard Review, 
+https://forestrycommission.blog.gov.uk/2023/10/03/the-uk-forestry-standard-review/
+11. Forestry England, Creating Space for Nature, What is Open Habitat? https://www.forestryengland.uk/article/how-we-manage-open-habitats
+12. Gov.uk, The benefits of woodland creation: Woods for Nature, Encourage biodiversity with a sustainable woodland design. 
+https://www.gov.uk/government/publications/the-benefits-of-woodland-creation-woods-for-nature/the-benefits-of-woodland-creation-woods-for-nature
+13. Department for Environment Food and Rural Affairs, Agricultural facts: East Midlands region, Table 1.1: Land use in 2024. https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-east-midland-region
+14. Department for Environment Food and Rural Affairs, Agricultural facts: East of England region, Table 1.1: Land use in 2024. https://www.gov.uk/government/statistics/agricultural-facts-england-regional-profiles/agricultural-facts-east-of-england-region
+15. Forestry, The long-term development of temperate woodland creation sites: from tree saplings to mature woodlands, Discussion, Biodiversity value of woodland creation sites.
+https://academic.oup.com/forestry/article/95/1/28/6291829
+16. Forest Research, Woodland conservation, Ancient and semi-natural woodlands.
+https://www.forestresearch.gov.uk/climate-change/advice/woodland-conservation
+
+## 10. Appendix
+### Appendix A
+
+<a id="figA1"></a>
+###### *Figure A.1: Land class maps of the North West and Yorkshire in 1990 and 2024. These maps provide supporting evidence for an increase in urban areas around Manchester, Sheffield and Leeds.*
+<p align='left'><image src='images/appendix/north_west.png' width=900></p>
+<br />
+<br />
+<br />
+
+<a id="figA2"></a>
+###### *Figure A.2: Land class maps of the South East in 1990 and 2024, evidencing the increase of built-up areas in towns and villages between London and Chichester.* 
+<p align='left'><image src='images/appendix/south_east.png' width=900></p>
+<br />
+<br />
+<br />
+
+<a id="figA3"></a>
+###### *Figure A.3: Land class maps of the Fens, the Yorkshire Dales and the North Pennines in 1990. These maps are used to show the dominant land cover of grassland and arable land in these regions.*
+<p align='left'><image src='images/appendix/north_pennines_fens_yorkshire_dales.png' width=900></p>
+<br />
+<br />
+<br />
+
+<a id="figA4"></a>
+###### *Figure A.4: Land class maps of Leicestershire in 1990 and 2024 used to show the establishment of new DW and urban areas in previously arable or grassland regions.* 
+<p align='left'><image src='images/appendix/Leicestershire.png' width=900></p>
+<br />
+<br />
+<br />
+
+<a id="figA5"></a>
+###### *Figure A.5: Land class maps of South Wales in 1990 and 2024 used to show the establishment of new DW in previous coniferous woodland or arable areas.* 
+<p align='left'><image src='images/appendix/south_wales.png' width=900></p>
+

@@ -3,7 +3,7 @@
 [1. Project Background](#1-Project-Background) <br>
 [2. Data Sourcing and Data Structure](#2-Data-Sourcing-and-Data-Structure) <br>
 [3. Executive Summary](#3-Executive-Summary) <br>
-[4. National Trends](#4-National-Trends) <br>
+[4. Spatial Patterns](#4-Spatial-Patterns) <br>
 [5. Regional Trends](#5-Regional-Trends) <br>
 [6. Land Class Interactions](#6-Land-Class-Interactions) <br>
 [7. Implications for the Marsh Tit](#7-Implications-for-the-Marsh-Tit) <br>
@@ -34,7 +34,7 @@ Despite net increases in Deciduous Woodland (DW) across England and Wales (+24.8
 
 The Marsh tit’s preference for ancient DW means the loss of established habitat areas cannot be immediately reversed by replacing or increasing DW. For this reason, it is likely that species abundance has been heavily impacted in Yorkshire and the North West since 1990. Both regions have been marked as ‘critical’ and further research is recommended to determine the impact on the local populations. 
 
-## 4. National Trends 
+## 4. Spatial Patterns 
 The heatmaps in figures 4a to 4c show the percentage loss, gain and net change of DW in England and Wales between 1990 and 2024. A 5.1x5.1km moving window was used to estimate proportional values, interspersed at 100m intervals. 
 
 <h3 align='left'>Figure 4a: DW Loss  </h3>

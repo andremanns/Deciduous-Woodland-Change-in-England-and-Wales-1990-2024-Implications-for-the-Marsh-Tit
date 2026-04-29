@@ -32,7 +32,9 @@ UKCEH 25m raster maps from 1990 [3] and 2024 [4] were cleaned and analysed in QG
 ## 3. Executive Summary 
 Despite net increases in Deciduous Woodland (DW) across England and Wales (+24.8%), significant gross losses were observed across all International Territorial Level 1 (ITL1) regions (13.5% to 23.3%). Yorkshire and the North West ranked highest for gross DW loss, with urban expansion highly prevalent in these regions. On a national scale, built-up areas were the largest contributor to net DW loss (-244.3 km²), accounting for 27.2% of all gross losses.
 
-The Marsh tit’s preference for ancient DW means the loss of established habitat areas cannot be immediately reversed by replacing or increasing DW. For this reason, it is likely that species abundance has been heavily impacted in Yorkshire and the North West since 1990. Both regions have been marked as ‘critical’ and further research is recommended to determine the impact on the local populations. 
+The Marsh tit’s preference for ancient DW means the loss of established habitat areas cannot be immediately reversed by replacing or increasing DW. For this reason, it is possible that species abundance has been heavily impacted in Yorkshire and the North West since 1990. Both regions have been identified as ‘critical’ and further research is recommended to determine the impact on the local populations. 
+
+A limitation of the study dataset was its inability to distinguish ancient and newer areas of DW. Additional data detailing woodland maturity is required to better understand the impact on Marsh tit habitat.
 
 ## 4. Spatial Patterns 
 The heatmaps in figures 4a to 4c show the percentage loss, gain and net change of DW in England and Wales between 1990 and 2024. A 5.1x5.1km moving window was used to estimate proportional values, interspersed at 100m intervals. 
